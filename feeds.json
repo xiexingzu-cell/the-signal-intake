@@ -1,0 +1,158 @@
+[
+  {
+    "id": "bbc_business",
+    "name": "BBC News · Business",
+    "category": "finance",
+    "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+    "article_hosts": [
+      "www.bbc.com",
+      "www.bbc.co.uk",
+      "bbc.com",
+      "bbc.co.uk",
+      "feeds.bbci.co.uk"
+    ],
+    "weight": 5,
+    "note": "暂时停用：本服务器于2026-10-11采集失败；以后可重新测试"
+  },
+  {
+    "id": "bbc_technology",
+    "name": "BBC News · Technology",
+    "category": "ai",
+    "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    "article_hosts": [
+      "www.bbc.com",
+      "www.bbc.co.uk",
+      "bbc.com",
+      "bbc.co.uk",
+      "feeds.bbci.co.uk"
+    ],
+    "weight": 4,
+    "note": "暂时停用：本服务器于2026-10-11采集失败；以后可重新测试"
+  },
+  {
+    "id": "bbc_world",
+    "name": "BBC News · World",
+    "category": "world",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "article_hosts": [
+      "www.bbc.com",
+      "www.bbc.co.uk",
+      "bbc.com",
+      "bbc.co.uk",
+      "feeds.bbci.co.uk"
+    ],
+    "weight": 5,
+    "note": "暂时停用：本服务器于2026-10-11采集失败；以后可重新测试"
+  },
+  {
+    "id": "guardian_us_business",
+    "name": "The Guardian · US Business",
+    "category": "finance",
+    "url": "https://www.theguardian.com/us/business/rss",
+    "article_hosts": [
+      "www.theguardian.com",
+      "theguardian.com"
+    ],
+    "weight": 5
+  },
+  {
+    "id": "guardian_world",
+    "name": "The Guardian · World",
+    "category": "world",
+    "url": "https://www.theguardian.com/world/rss",
+    "article_hosts": [
+      "www.theguardian.com",
+      "theguardian.com"
+    ],
+    "weight": 5
+  },
+  {
+    "id": "aljazeera_world",
+    "name": "Al Jazeera English · News",
+    "category": "world",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "article_hosts": [
+      "www.aljazeera.com",
+      "aljazeera.com"
+    ],
+    "weight": 4
+  },
+  {
+    "id": "dw_world",
+    "name": "Deutsche Welle · World",
+    "category": "world",
+    "url": "https://rss.dw.com/rdf/rss-en-world",
+    "article_hosts": [
+      "www.dw.com",
+      "dw.com"
+    ],
+    "weight": 4
+  },
+  {
+    "id": "techcrunch_ai",
+    "name": "TechCrunch AI",
+    "category": "ai",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "article_hosts": [
+      "techcrunch.com",
+      "www.techcrunch.com"
+    ],
+    "weight": 4
+  },
+  {
+    "id": "ars_technica",
+    "name": "Ars Technica",
+    "category": "ai",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "article_hosts": [
+      "arstechnica.com",
+      "www.arstechnica.com"
+    ],
+    "weight": 4
+  },
+  {
+    "id": "npr_world",
+    "name": "NPR World",
+    "category": "world",
+    "url": "https://feeds.npr.org/1004/rss.xml",
+    "article_hosts": [
+      "www.npr.org",
+      "npr.org"
+    ],
+    "weight": 4
+  },
+  {
+    "id": "cnbc_finance",
+    "name": "CNBC Business",
+    "category": "finance",
+    "url": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+    "article_hosts": [
+      "www.cnbc.com",
+      "cnbc.com"
+    ],
+    "weight": 4
+  },
+  {
+    "id": "arxiv_quant_overseas",
+    "name": "arXiv Quantitative Finance",
+    "category": "quant",
+    "url": "https://rss.arxiv.org/rss/q-fin",
+    "article_hosts": [
+      "arxiv.org",
+      "www.arxiv.org",
+      "export.arxiv.org"
+    ],
+    "weight": 6,
+    "lookback_hours": 168
+  },
+  {
+    "id": "mit_ai_overseas",
+    "name": "MIT News AI",
+    "category": "ai",
+    "url": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
+    "article_hosts": [
+      "news.mit.edu"
+    ],
+    "weight": 6
+  }
+]

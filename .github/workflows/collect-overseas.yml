@@ -1,0 +1,38 @@
+name: THE SIGNAL overseas news metadata
+on:
+  workflow_dispatch:
+  schedule:
+    # 06:37 and 07:17 Asia/Shanghai, UTC cron; Tencent server remains publisher.
+    - cron: '37 22 * * *'
+    - cron: '17 23 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: overseas-metadata-main
+  cancel-in-progress: false
+jobs:
+  intake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test parser and snapshot serialization
+        run: python -m unittest discover -s tests -v
+      - name: Collect news metadata only
+        run: python collect_remote.py --hours 72 --max-items 100 --timeout 12
+      - name: Commit snapshot to private repository
+        run: |
+          git config user.name "the-signal-bot"
+          git config user.email "the-signal-bot@users.noreply.github.com"
+          git add snapshots/latest.json snapshots/latest.report.json
+          if git diff --cached --quiet; then
+            echo "No snapshot changes"
+          else
+            git commit -m "news: refresh overseas snapshot [skip ci]"
+            git push
+          fi
