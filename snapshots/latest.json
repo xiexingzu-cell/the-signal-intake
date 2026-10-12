@@ -1,17 +1,17 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-10-12T01:40:48.952045Z",
+  "generated_at": "2026-10-12T02:27:33.606095Z",
   "provider": "github_actions_rss",
   "entries": [
     {
       "id": "rss-6ba88bd0dd947f74",
       "category": "world",
-      "title": "Australian politics live: Taylor defends CV after Hanson dubs him a ‘smarmy management consultant’",
+      "title": "Australian politics live: Taylor defends CV after Hanson calls him ‘smarmy’; Joyce likens US public execution to ‘Roman amphitheatre’",
       "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino ,…",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
       "source": "The Guardian · World",
       "source_id": "guardian_world",
-      "published_at": "2026-10-12T01:08:10Z",
+      "published_at": "2026-10-12T02:08:53Z",
       "image_candidate": "https://i.guim.co.uk/img/media/e68dd5617e739eabe16aa901823ff862b3dc897c/1074_0_5348_4281/master/5348.jpg?width=140&quality=85&auto=format&fit=max&s=3aa6e491a176f251fd9b2834564ab8c0",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
@@ -214,6 +214,20 @@
       "importance_score": 72
     },
     {
+      "id": "rss-cf70f99a523c05c4",
+      "category": "world",
+      "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+      "summary": "Sunday's strike on King Khalid International airport kills a Pakistani national.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-10-12T02:11:21Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
       "id": "rss-ecf4658d1b2976ef",
       "category": "world",
       "title": "Bridge washed away by torrent of water in Nepal",
@@ -340,20 +354,6 @@
       "importance_score": 71
     },
     {
-      "id": "rss-a24af07acbf36aad",
-      "category": "world",
-      "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-      "summary": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-10-11T22:24:07Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
       "id": "rss-9425c6a29215c5ea",
       "category": "world",
       "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
@@ -452,18 +452,18 @@
       "importance_score": 71
     },
     {
-      "id": "rss-34b9d08cc8ae5b28",
+      "id": "rss-a24af07acbf36aad",
       "category": "world",
-      "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
-      "summary": "This live blog is now closed. You can read our latest full report here: Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say Some more Gulf reaction to Houthi’s deadly airport atta…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-11T18:03:22Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/85db3bfcd6d1dc107fbf4a8abeb1f7c4057fcae2/496_0_4341_3474/master/4341.jpg?width=140&quality=85&auto=format&fit=max&s=84521c8b2979ed443a4b77deeee9d943",
+      "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+      "summary": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-10-11T22:24:07Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
+      "importance_score": 70
     },
     {
       "id": "rss-d7fe01c6fc9dec7a",
@@ -662,20 +662,6 @@
       "importance_score": 70
     },
     {
-      "id": "rss-d907d34c9b164c55",
-      "category": "ai",
-      "title": "Review: 4-hour Musk documentary feels like two different films",
-      "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
-      "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-10-11T18:10:54Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
       "id": "rss-1c0a28c71f388243",
       "category": "finance",
       "title": "Citroen revives the 2CV for an electric age",
@@ -702,6 +688,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 70
+    },
+    {
+      "id": "rss-d907d34c9b164c55",
+      "category": "ai",
+      "title": "Review: 4-hour Musk documentary feels like two different films",
+      "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
+      "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-10-11T18:10:54Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 69
     },
     {
       "id": "rss-93a0bbae1ba86d67",
@@ -746,20 +746,6 @@
       "importance_score": 69
     },
     {
-      "id": "rss-27abcf7051e177f2",
-      "category": "ai",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-10-11T14:00:00Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 69
-    },
-    {
       "id": "rss-8ad52c2a733bd97b",
       "category": "finance",
       "title": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
@@ -788,6 +774,20 @@
       "importance_score": 69
     },
     {
+      "id": "rss-27abcf7051e177f2",
+      "category": "ai",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-10-11T14:00:00Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
+    },
+    {
       "id": "rss-8b461ffd78bd31cc",
       "category": "finance",
       "title": "Charities and businesses wrestle with diesel cost",
@@ -799,7 +799,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c5/live/05711430-c3c0-11f1-9798-abffda1e61e7.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 68
+      "importance_score": 67
     },
     {
       "id": "rss-13ca25f147a7a5de",
@@ -813,7 +813,7 @@
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 65
+      "importance_score": 64
     },
     {
       "id": "rss-b9dc0d5943c84ce6",
@@ -825,34 +825,6 @@
       "source_id": "techcrunch_ai",
       "published_at": "2026-10-10T19:50:00Z",
       "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
-    },
-    {
-      "id": "rss-26642edca61eefe9",
-      "category": "finance",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-10-10T14:24:14Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d06b/live/625e43c0-c54b-11f1-b4f1-2359026a88ee.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
-    },
-    {
-      "id": "rss-19f7d088c06dfd29",
-      "category": "finance",
-      "title": "United Auto Workers president Shawn Fain easily wins re-election",
-      "summary": "Fain was dogged by investigation but still decisively beat challenger Rich Boyer, who received just 13% of vote The president of the United Auto Workers, Shawn Fain, has easily won his re-election bid after an…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/10/uaw-president-shawn-fain-wins-re-election",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-10-10T13:46:49Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/3293a2b7b5086031d0df60c08f6a0c948a32a9b4/1045_1375_5106_4087/master/5106.jpg?width=140&quality=85&auto=format&fit=max&s=f92c81687cc944d9ce2b5900fb8687de",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 64
@@ -886,15 +858,29 @@
       "importance_score": 63
     },
     {
-      "id": "rss-a0f6e38f65e9c89b",
-      "category": "ai",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-10-10T14:00:00Z",
-      "image_candidate": null,
+      "id": "rss-26642edca61eefe9",
+      "category": "finance",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-10-10T14:24:14Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d06b/live/625e43c0-c54b-11f1-b4f1-2359026a88ee.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 63
+    },
+    {
+      "id": "rss-19f7d088c06dfd29",
+      "category": "finance",
+      "title": "United Auto Workers president Shawn Fain easily wins re-election",
+      "summary": "Fain was dogged by investigation but still decisively beat challenger Rich Boyer, who received just 13% of vote The president of the United Auto Workers, Shawn Fain, has easily won his re-election bid after an…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/uaw-president-shawn-fain-wins-re-election",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-10-10T13:46:49Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/3293a2b7b5086031d0df60c08f6a0c948a32a9b4/1045_1375_5106_4087/master/5106.jpg?width=140&quality=85&auto=format&fit=max&s=f92c81687cc944d9ce2b5900fb8687de",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 63
@@ -928,6 +914,20 @@
       "importance_score": 63
     },
     {
+      "id": "rss-a0f6e38f65e9c89b",
+      "category": "ai",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-10-10T14:00:00Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 62
+    },
+    {
       "id": "rss-dbb8d8deb79338f7",
       "category": "ai",
       "title": "One with the world? A new look at brains transformed by psychedelics.",
@@ -953,7 +953,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 62
+      "importance_score": 61
     },
     {
       "id": "rss-1035c905377c4f69",
@@ -1040,48 +1040,6 @@
       "importance_score": 59
     },
     {
-      "id": "rss-36cc2f96c79b2aa5",
-      "category": "ai",
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-10-09T22:04:07Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 59
-    },
-    {
-      "id": "rss-d578180d1dea0925",
-      "category": "ai",
-      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
-      "summary": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
-      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-10-09T21:51:12Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Cray-1_Vertical_Chassis-1-810x648.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 59
-    },
-    {
-      "id": "rss-7984e92e6601d72f",
-      "category": "ai",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-10-09T21:41:29Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 59
-    },
-    {
       "id": "rss-4348806c4fee4172",
       "category": "finance",
       "title": "AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say",
@@ -1110,18 +1068,46 @@
       "importance_score": 59
     },
     {
-      "id": "rss-953575e074a592cd",
-      "category": "finance",
-      "title": "Trump establishes committee to investigate Fed governor Lisa Cook",
-      "summary": "US president renews his efforts to oust Cook despite supreme court ruling that her firing was unconstitutional Donald Trump announced on Friday that he is establishing a committee to investigate Lisa Cook, the…",
-      "url": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-10-09T18:05:12Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/890877637282888c3844fb8896ffeeaf6e7cdbf2/198_0_2886_2308/master/2886.jpg?width=140&quality=85&auto=format&fit=max&s=71d0b375be97c2a601a88aa5cbfd1fae",
+      "id": "rss-36cc2f96c79b2aa5",
+      "category": "ai",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-10-09T22:04:07Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 59
+      "importance_score": 58
+    },
+    {
+      "id": "rss-d578180d1dea0925",
+      "category": "ai",
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "summary": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
+      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-10-09T21:51:12Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Cray-1_Vertical_Chassis-1-810x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 58
+    },
+    {
+      "id": "rss-7984e92e6601d72f",
+      "category": "ai",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-10-09T21:41:29Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 58
     },
     {
       "id": "rss-f0a1c67c08482cf4",
@@ -1236,15 +1222,15 @@
       "importance_score": 58
     },
     {
-      "id": "rss-422aad0923b81ff5",
-      "category": "ai",
-      "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
-      "summary": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-10-09T18:24:39Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg",
+      "id": "rss-953575e074a592cd",
+      "category": "finance",
+      "title": "Trump establishes committee to investigate Fed governor Lisa Cook",
+      "summary": "US president renews his efforts to oust Cook despite supreme court ruling that her firing was unconstitutional Donald Trump announced on Friday that he is establishing a committee to investigate Lisa Cook, the…",
+      "url": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-10-09T18:05:12Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/890877637282888c3844fb8896ffeeaf6e7cdbf2/198_0_2886_2308/master/2886.jpg?width=140&quality=85&auto=format&fit=max&s=71d0b375be97c2a601a88aa5cbfd1fae",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 58
@@ -1290,6 +1276,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 58
+    },
+    {
+      "id": "rss-422aad0923b81ff5",
+      "category": "ai",
+      "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
+      "summary": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-10-09T18:24:39Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 57
     },
     {
       "id": "rss-dd1a4ba899e07fb1",
