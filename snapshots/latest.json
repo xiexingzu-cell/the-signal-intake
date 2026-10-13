@@ -1,6 +1,6 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-10-13T03:08:34.618041Z",
+  "generated_at": "2026-10-13T03:36:03.467704Z",
   "provider": "github_actions_rss",
   "entries": [
     {
@@ -11,8 +11,50 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
       "source": "The Guardian · World",
       "source_id": "guardian_world",
-      "published_at": "2026-10-13T02:53:34Z",
+      "published_at": "2026-10-13T03:19:23Z",
       "image_candidate": "https://i.guim.co.uk/img/media/f5193c1a0f58412933f273f3bd4b27ea8df4a548/1136_0_5682_4546/master/5682.jpg?width=140&quality=85&auto=format&fit=max&s=0b9b046522e385a77a70e22b1cd03332",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-9c4c927e6cfff2ec",
+      "category": "world",
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "summary": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks The threat of an AI share price crash rippling out across global markets is putting world financial…",
+      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-10-13T03:15:12Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/936_0_4064_3251/master/4064.jpg?width=140&quality=85&auto=format&fit=max&s=64f8d89d1094aed1c2d57aeff5d62a4b",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-9e03930a6513f8cb",
+      "category": "finance",
+      "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+      "summary": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-10-13T03:14:13Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac3/live/cdd68a00-c662-11f1-8600-efb62b613ab5.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-df5903b0856880ed",
+      "category": "world",
+      "title": "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels",
+      "summary": "National park officials took the precautionary measure to limit tourist access after heavy rain caused the Iguazu River to flow at six times the normal rate Heavy rainfall fuelled by a supersized El Niño weathe…",
+      "url": "https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-10-13T03:03:48Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/a6437347e242ee38e2ba23c1835b4c362e794d19/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=b904511890a32af14a3c2750ef58e60f",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -41,20 +83,6 @@
       "source_id": "guardian_world",
       "published_at": "2026-10-13T02:00:49Z",
       "image_candidate": "https://i.guim.co.uk/img/media/00dbbe000e43dad6c716e856c1bef5007d19200e/298_0_2967_2375/master/2967.jpg?width=140&quality=85&auto=format&fit=max&s=65a96f8db6f6103dd51a8f3841bc8fec",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-9e03930a6513f8cb",
-      "category": "finance",
-      "title": "UK growth upgraded but energy prices and rates to bite in 2027",
-      "summary": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
-      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-10-13T02:00:35Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac3/live/cdd68a00-c662-11f1-8600-efb62b613ab5.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -158,6 +186,34 @@
       "importance_score": 72
     },
     {
+      "id": "rss-69949191b14bc670",
+      "category": "world",
+      "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
+      "summary": "Ukraine's president says Russian attacks on Ukraine’s energy infrastructure are continuing despite 'energy ceasefire'.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-10-13T03:11:19Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-9b5150315af60c6e",
+      "category": "world",
+      "title": "Cyberattack on French supermarkets causes fires, millions in losses",
+      "summary": "A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-10-13T03:01:53Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
       "id": "rss-a1f849e5530f1b82",
       "category": "world",
       "title": "‘Unprecedented’ cyberattack hits French supermarkets, causing food losses",
@@ -214,20 +270,6 @@
       "importance_score": 71
     },
     {
-      "id": "rss-737ae1d18b23e765",
-      "category": "world",
-      "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
-      "summary": "Simon caps a Pacific season of record-breaking intensity, as deadly storms wreak havoc from Hawaii to Mexico.",
-      "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-10-12T23:09:50Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
       "id": "rss-a8dcae6b1c52ec2b",
       "category": "finance",
       "title": "Heating oil customers face tough winter despite shake-up promise",
@@ -251,48 +293,6 @@
       "source_id": "bbc_business",
       "published_at": "2026-10-12T23:01:45Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf2/live/90f60900-c543-11f1-bc2e-018d645d8d21.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-1ae4ea8f99e3a495",
-      "category": "world",
-      "title": "English councils warn of ‘catastrophic’ Send debts forecast to hit £10bn by 2028",
-      "summary": "Surge in EHCP applications poses risk to public finances and may lead to deteriorating levels of support Councils are warning of potentially “catastrophic” debts, which are forecast to reach a record £10bn over…",
-      "url": "https://www.theguardian.com/education/2026/oct/13/english-councils-catastrophic-send-debts-forecast-2028",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-12T23:01:07Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/3576ec1f47e6c51d8b0425b7f37f30532424ae0c/427_0_4267_3413/master/4267.jpg?width=140&quality=85&auto=format&fit=max&s=a597b11d05e4b28996f4328784d73c7a",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-c3cf37f37cf9fafb",
-      "category": "world",
-      "title": "Queensland prison where children self-harm to get transferred ‘more suitable’ than police watch houses: ombudsman",
-      "summary": "Inmate advocacy group attacks watchdog’s ‘gutless retreat’ on Wacol youth remand centre Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Th…",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/queensland-ombudsman-backs-away-from-calls-to-close-youth-prison-so-unsuitable-some-children-self-harm-to-get-transferred-ntwnfb",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-12T23:00:07Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/08feb8ad68eac1d164ce9cce4b80bb5097f0488a/6_9_1079_864/master/1079.jpg?width=140&quality=85&auto=format&fit=max&s=f9263b7ecde213eb6ed8ee75980541d1",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-41f1b1d51f2a574b",
-      "category": "world",
-      "title": "Immigration agents search congresswoman Ilhan Omar's home",
-      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-10-12T22:05:31Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc45/live/01c4d970-c64f-11f1-b47f-e3f9cf703bc3.png",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
@@ -363,20 +363,6 @@
       "source_id": "bbc_business",
       "published_at": "2026-10-12T17:08:32Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7c6/live/7e914b40-c65f-11f1-a64c-550be9e3c66b.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
-      "id": "rss-d4b06c0c7351d7c4",
-      "category": "finance",
-      "title": "Why some have no choice but to pay costly oil prices",
-      "summary": "Rural communities are badly hit by the rising cost of heating oil, as our Wiltshire reporter explains.",
-      "url": "https://www.bbc.co.uk/news/videos/cq4g1dn81y9xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-10-12T15:34:48Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69cf/live/58b8f3d0-c652-11f1-bc2e-018d645d8d21.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 70
@@ -508,29 +494,15 @@
       "importance_score": 69
     },
     {
-      "id": "rss-1ed99c53c3c6c5a0",
-      "category": "ai",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-10-12T15:31:19Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 69
-    },
-    {
-      "id": "rss-6d5747a1c9b09ae5",
-      "category": "ai",
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-10-12T15:27:59Z",
-      "image_candidate": null,
+      "id": "rss-d4b06c0c7351d7c4",
+      "category": "finance",
+      "title": "Why some have no choice but to pay costly oil prices",
+      "summary": "Rural communities are badly hit by the rising cost of heating oil, as our Wiltshire reporter explains.",
+      "url": "https://www.bbc.co.uk/news/videos/cq4g1dn81y9xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-10-12T15:34:48Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69cf/live/58b8f3d0-c652-11f1-bc2e-018d645d8d21.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
@@ -562,6 +534,34 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
+    },
+    {
+      "id": "rss-1ed99c53c3c6c5a0",
+      "category": "ai",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-10-12T15:31:19Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
+    },
+    {
+      "id": "rss-6d5747a1c9b09ae5",
+      "category": "ai",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-10-12T15:27:59Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
     },
     {
       "id": "rss-b1e02503c4ef9b7b",
@@ -1093,7 +1093,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da61/live/bdf1b350-c3ef-11f1-913a-eb4b8e15ad15.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 66
+      "importance_score": 65
     },
     {
       "id": "rss-c85d70cd1e15bc10",
@@ -1107,7 +1107,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c44f/live/e68c78a0-c5c9-11f1-9042-5f0794d5e895.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 66
+      "importance_score": 65
     },
     {
       "id": "rss-83406123c1b1f932",
