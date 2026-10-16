@@ -1,12 +1,14 @@
+
 name: THE SIGNAL overseas news metadata
+
 on:
   workflow_dispatch:
- 
-schedule:
-  # 北京时间 05:23
-  - cron: '23 21 * * *'
-  # 北京时间 06:07
-  - cron: '7 22 * * *'
+  schedule:
+    # 北京时间 05:23
+    - cron: '23 21 * * *'
+    # 北京时间 06:07
+    - cron: '7 22 * * *'
+
 
 permissions:
   contents: write
