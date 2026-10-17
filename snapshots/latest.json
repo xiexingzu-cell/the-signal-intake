@@ -1,8 +1,64 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-10-17T23:14:08.983476Z",
+  "generated_at": "2026-10-17T23:57:38.734861Z",
   "provider": "github_actions_rss",
   "entries": [
+    {
+      "id": "rss-0bd6429ce4de8bfb",
+      "category": "world",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · World",
+      "source_id": "bbc_world",
+      "published_at": "2026-10-17T23:52:38Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-3b66d0c24891895d",
+      "category": "world",
+      "title": "Arizona joins Nevada to fight proposed cuts to their shares of Colorado River",
+      "summary": "Move comes after Trump administration announced restrictions that could slash water supplies Arizona has joined Nevada in its legal battle against the Trump administration’s proposed cuts to their shares of the…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/arizona-nevada-water-rights-colorado-river",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-10-17T23:40:11Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/f8fe947b0a00f1b3d03b455048ff132f2feafcf9/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=a1825e373dc059a7d60ace440568f406",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-21f85ee07e9a628d",
+      "category": "world",
+      "title": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
+      "summary": "Hurricane warning in effect from Manzanillo to Cabo Corrientes as storm moves toward Pacific coast Trudy strengthened to a category 2 hurricane as it moved toward Mexico’s south-western and west-central Pacific…",
+      "url": "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-10-17T23:24:40Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/a78115f167c62cf861f81f58446e1b9e6c266ea1/0_0_5417_4333/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=586a1cddf4151c0851d4bf6916b56e7d",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-f2abb7d0735ec7b5",
+      "category": "world",
+      "title": "Two people, including child, killed after person drives through soccer game in Kansas",
+      "summary": "The driver of the vehicle is in custody, and two juveniles were in the vehicle, according to Wichita police department Two people, including a child, were killed during a soccer game in Wichita, Kansas, when a…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-10-17T23:22:06Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/ce7d7457e9fa3b7bfa25d9792cb8370c78feaa97/540_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=68d10d5c5759bff37a430bc12cbba0c7",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
     {
       "id": "rss-5409a67faeebe4c6",
       "category": "world",
@@ -74,60 +130,32 @@
       "importance_score": 72
     },
     {
-      "id": "rss-1a3ff8d2e22ffceb",
+      "id": "rss-66213a06d07befa2",
       "category": "world",
-      "title": "No action to be taken against wife of PM’s aide over Palestine Action post",
-      "summary": "Tweet by Sarah Helm, wife of national security adviser Jonathan Powell, ‘does not meet criminal threshold’ No further action will be taken against Sarah Helm, the wife of the prime minister’s national security…",
-      "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-17T19:47:45Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/d4ab1c134c4c8f31bad2e66b87319575193984da/1256_787_1826_1461/master/1826.jpg?width=140&quality=85&auto=format&fit=max&s=2abb77454d54086035cd503990bf8f54",
+      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+      "summary": "Trump-appointed Ambassador Mike Huckabee calls the attack on Heidi Levine a 'despicable act of terror'.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-10-17T23:40:59Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
-      "id": "rss-b677fdedabaf4479",
+      "id": "rss-9b26445cd5737b5a",
       "category": "world",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-10-17T19:19:19Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+      "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+      "summary": "Forces intercepted and destroyed four drones over Saudi Arabia's Riyadh, Eastern Province and southern region.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-10-17T23:21:57Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-6d09bb2727e7ee9f",
-      "category": "world",
-      "title": "At least 17 dead in crush at Hindu festival event in India",
-      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-10-17T19:19:16Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d0/live/caaed220-ca5d-11f1-852c-2b93a8fc4799.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-66183320dfac4d6a",
-      "category": "world",
-      "title": "More than 400 arrested as police clash with protesters across France",
-      "summary": "Police fire teargas in Paris and protesters storm town hall in Marseille – with officials blaming violence on ‘ultra-left’ More than 400 people were arrested in France on Saturday after protesters supporting hi…",
-      "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-17T19:15:03Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/7581252b072b651e754e46a8d2d3f76989d36833/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b6a18d42ff582fc580489ac914a54a72",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
       "id": "rss-7dd27ee4e856d38c",
@@ -189,7 +217,7 @@
       "id": "rss-1f5d991297e8d6de",
       "category": "world",
       "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-      "summary": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
+      "summary": "Hundreds of thousands took to the streets for separate demonstrations, putting pressure on governments across the EU.",
       "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
       "source": "Al Jazeera English · News",
       "source_id": "aljazeera_world",
@@ -284,43 +312,57 @@
       "importance_score": 71
     },
     {
-      "id": "rss-3c9a10b5da4f3173",
+      "id": "rss-1a3ff8d2e22ffceb",
       "category": "world",
-      "title": "At least 17 killed in stampede at religious gathering in India",
-      "summary": "Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-10-17T19:48:54Z",
-      "image_candidate": null,
+      "title": "No action to be taken against wife of PM’s aide over Palestine Action post",
+      "summary": "Tweet by Sarah Helm, wife of national security adviser Jonathan Powell, ‘does not meet criminal threshold’ No further action will be taken against Sarah Helm, the wife of the prime minister’s national security…",
+      "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-10-17T19:47:45Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/d4ab1c134c4c8f31bad2e66b87319575193984da/1256_787_1826_1461/master/1826.jpg?width=140&quality=85&auto=format&fit=max&s=2abb77454d54086035cd503990bf8f54",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
     },
     {
-      "id": "rss-3b2e63ea77654005",
+      "id": "rss-b677fdedabaf4479",
       "category": "world",
-      "title": "Albanian police fire rubber bullets as protests against Rama escalate",
-      "summary": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-10-17T19:26:13Z",
-      "image_candidate": null,
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · World",
+      "source_id": "bbc_world",
+      "published_at": "2026-10-17T19:19:19Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
     },
     {
-      "id": "rss-5e129b5ffdd0d560",
+      "id": "rss-6d09bb2727e7ee9f",
       "category": "world",
-      "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
-      "summary": "Donald Trump has described her as \"garbage\" and a \"criminal\" who does nothing but \"bitch.\" Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president. But why her?",
-      "url": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle · World",
-      "source_id": "dw_world",
-      "published_at": "2026-10-17T19:17:00Z",
-      "image_candidate": null,
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · World",
+      "source_id": "bbc_world",
+      "published_at": "2026-10-17T19:19:16Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d0/live/caaed220-ca5d-11f1-852c-2b93a8fc4799.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-66183320dfac4d6a",
+      "category": "world",
+      "title": "More than 400 arrested as police clash with protesters across France",
+      "summary": "Police fire teargas in Paris and protesters storm town hall in Marseille – with officials blaming violence on ‘ultra-left’ More than 400 people were arrested in France on Saturday after protesters supporting hi…",
+      "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-10-17T19:15:03Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/7581252b072b651e754e46a8d2d3f76989d36833/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b6a18d42ff582fc580489ac914a54a72",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
@@ -396,48 +438,6 @@
       "importance_score": 71
     },
     {
-      "id": "rss-0bd6429ce4de8bfb",
-      "category": "world",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-10-17T18:38:57Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-865926c29083d345",
-      "category": "world",
-      "title": "Six homes burned and two firefighters injured in fast-moving California wildfire",
-      "summary": "About 6,000 homes under evacuation, affecting 16,000 residents in San Clemente and San Juan Capistrano At least six homes burned and two firefighters were injured after a fast-moving wildfire blazed through par…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-17T18:10:26Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/d57b941b1699636031985e4f2bcdf96f16518334/287_0_4138_3310/master/4138.jpg?width=140&quality=85&auto=format&fit=max&s=420b31e183c2bb492ccdf1585075332a",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-d54ad05240432a60",
-      "category": "world",
-      "title": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
-      "summary": "Prosecution did not act in fair and impartial way in grand jury proceedings, judge rules, after West Wing actor charged with groping young boy on TV set A state court ⁠judge in New Mexico has dismissed charges…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-17T17:56:20Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/760737ad9e81c7f2a65f16df302ae7b2d1656dc9/689_0_3764_3014/master/3764.jpg?width=140&quality=85&auto=format&fit=max&s=9a0be0384c32eaaf4c45c3908e3819a2",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
       "id": "rss-50384b6a5d0dae4f",
       "category": "world",
       "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
@@ -452,60 +452,46 @@
       "importance_score": 71
     },
     {
-      "id": "rss-73933227a9abe63f",
+      "id": "rss-3c9a10b5da4f3173",
       "category": "world",
-      "title": "Plaque telling story of African-Caribbean prisoners in Britain stolen within days",
-      "summary": "Descendants say theft from Portchester Castle reflects racism that has haunted ‘generation after generation’ The theft of a plaque in Hampshire that told the little-known story of African-Caribbean prisoners in…",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/17/plaque-honouring-african-caribbean-prisoners-in-britain-stolen-portchester-castle",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-17T15:57:07Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/2df1f99c6d550c24a647fd5d18146eb5128e3879/73_0_539_431/master/539.jpg?width=140&quality=85&auto=format&fit=max&s=efcb4cbea45375e8d1fa225a02d57f54",
+      "title": "At least 17 killed in stampede at religious gathering in India",
+      "summary": "Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-10-17T19:48:54Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
+      "importance_score": 70
     },
     {
-      "id": "rss-f64c4df6bddce1b7",
+      "id": "rss-3b2e63ea77654005",
       "category": "world",
-      "title": "SNP says campaign for next referendum on independence ‘has already begun’",
-      "summary": "John Swinney tells party conference SNP will use ‘six-figure war chest’ to renew argument for leaving UK John Swinney has said that the second referendum campaign for Scottish independence “has already begun”,…",
-      "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-17T15:45:53Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/dc2f9d231863c6c126b9760a976294a0dfcf604c/295_0_2948_2359/master/2948.jpg?width=140&quality=85&auto=format&fit=max&s=f8f9b4b01d7cbb737307bed367d0dedf",
+      "title": "Albanian police fire rubber bullets as protests against Rama escalate",
+      "summary": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-10-17T19:26:13Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
+      "importance_score": 70
     },
     {
-      "id": "rss-ccd92597e0d97752",
+      "id": "rss-5e129b5ffdd0d560",
       "category": "world",
-      "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
-      "summary": "Ukrainian president warns it will embolden Russian leader and intensify war as Moscow hits country’s power plants Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable Volodymyr Zelen…",
-      "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-17T15:38:17Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/66d7fc900581121c0e7d134eb1ebcd4cda702d73/153_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8a30e5931032880fca4c56248a2fdec3",
+      "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
+      "summary": "Donald Trump has described her as \"garbage\" and a \"criminal\" who does nothing but \"bitch.\" Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president. But why her?",
+      "url": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle · World",
+      "source_id": "dw_world",
+      "published_at": "2026-10-17T19:17:00Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-f2debe69dac73672",
-      "category": "world",
-      "title": "Florida fisher dragged into water and killed by 12ft alligator",
-      "summary": "Steve Hamilton was fishing in Winter Garden when he was attacked by gator, which was later killed A man fishing at a pond in Florida was killed on Friday by an alligator that was almost 12ft long in a rare kind…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/alligator-attack-florida-fisher-killed",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-17T15:23:32Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/3ef942dc588dbd5ebfddcd5ae43b4a6ae8884e8d/487_0_3748_3000/master/3748.jpg?width=140&quality=85&auto=format&fit=max&s=77cd8cdedf1a0dabde36d52fa4c50e22",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
+      "importance_score": 70
     },
     {
       "id": "rss-e43ec7dcbf26dc16",
@@ -634,6 +620,20 @@
       "importance_score": 70
     },
     {
+      "id": "rss-03fddcf5de4fe6c4",
+      "category": "world",
+      "title": "Al Jazeera reports from Paris as protests turn violent",
+      "summary": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-10-17T16:56:40Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 70
+    },
+    {
       "id": "rss-c041939f55283af6",
       "category": "finance",
       "title": "Low-cost clinic helps pet owners with vet bills",
@@ -648,20 +648,6 @@
       "importance_score": 70
     },
     {
-      "id": "rss-6808fc909befc84a",
-      "category": "ai",
-      "title": "Science says your boss should talk less in meetings",
-      "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
-      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-10-17T11:15:11Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-1152x648.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 69
-    },
-    {
       "id": "rss-578ef30bdd4c9286",
       "category": "finance",
       "title": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
@@ -674,6 +660,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
+    },
+    {
+      "id": "rss-6808fc909befc84a",
+      "category": "ai",
+      "title": "Science says your boss should talk less in meetings",
+      "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-10-17T11:15:11Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-1152x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
     },
     {
       "id": "rss-ead9ea938e0fe498",
@@ -785,7 +785,7 @@
       "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Torres-headshot-1152x648.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 65
+      "importance_score": 64
     },
     {
       "id": "rss-00bf2016198fbcc7",
@@ -799,7 +799,7 @@
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 65
+      "importance_score": 64
     },
     {
       "id": "rss-a9bfc73b70d7a162",
@@ -900,6 +900,20 @@
       "importance_score": 64
     },
     {
+      "id": "rss-528ff2fd500f7c20",
+      "category": "finance",
+      "title": "Watch: Did Tesla really just unveil a flying car?",
+      "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+      "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-10-16T12:32:31Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 64
+    },
+    {
       "id": "rss-e9c3d49cc9d74faa",
       "category": "ai",
       "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
@@ -911,7 +925,7 @@
       "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-1024x648.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
+      "importance_score": 63
     },
     {
       "id": "rss-7ff2fab56ea772a2",
@@ -925,7 +939,7 @@
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
+      "importance_score": 63
     },
     {
       "id": "rss-f1315209d972f617",
@@ -939,21 +953,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
-    },
-    {
-      "id": "rss-528ff2fd500f7c20",
-      "category": "finance",
-      "title": "Watch: Did Tesla really just unveil a flying car?",
-      "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
-      "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-10-16T12:32:31Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
+      "importance_score": 63
     },
     {
       "id": "rss-e1b3c44f13458aa6",
@@ -1191,7 +1191,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 61
+      "importance_score": 60
     },
     {
       "id": "rss-f85fd84baf5665c2",
@@ -1205,7 +1205,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7cc/live/e0cf8ba0-c92f-11f1-bc2e-018d645d8d21.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 61
+      "importance_score": 60
     },
     {
       "id": "rss-31731a14ba686e58",
@@ -1348,20 +1348,6 @@
       "importance_score": 58
     },
     {
-      "id": "rss-0b7274ba05c98359",
-      "category": "finance",
-      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-10-15T11:34:55Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 58
-    },
-    {
       "id": "rss-2255005ec1bf82b2",
       "category": "finance",
       "title": "Southwest is overhauling its frequent flyer program. Here's what's changing",
@@ -1390,15 +1376,29 @@
       "importance_score": 57
     },
     {
-      "id": "rss-691fb57d07729407",
+      "id": "rss-0b7274ba05c98359",
       "category": "finance",
-      "title": "How lower fuel economy targets could boost pickups and V-8 engines",
-      "summary": "An analyst who follows the industry says there are four ways recent changes to fuel economy rules will shift investment toward the most profitable segments.",
-      "url": "https://www.cnbc.com/2026/10/15/cafe-fuel-economy-v8-trucks.html",
-      "source": "CNBC Business",
-      "source_id": "cnbc_finance",
-      "published_at": "2026-10-15T11:30:01Z",
-      "image_candidate": null,
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-10-15T11:34:55Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 57
+    },
+    {
+      "id": "rss-b940f6c5ccab00b6",
+      "category": "finance",
+      "title": "Gen Z wrestle with shame from ordering delivery food: ‘This economy is not for the weak’",
+      "summary": "As Americans use apps like DoorDash and Uber Eats more habitually, they confront the guilt of paying extra fees for convenience Tell us: what is your personal ‘recession indicator’? When it comes to food, Carol…",
+      "url": "https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-10-15T11:00:10Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/82aa8c2f71b2a4c8d64cc5c5317d29f3d3fbd403/766_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=fe697ec719d9724d1835fb3b6d6bce5b",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 57
