@@ -1,8 +1,106 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-10-18T23:24:47.552505Z",
+  "generated_at": "2026-10-19T00:07:45.477593Z",
   "provider": "github_actions_rss",
   "entries": [
+    {
+      "id": "rss-368bb5a684b474b7",
+      "category": "world",
+      "title": "Outrage after Meta suspends No Kings Instagram account during protests",
+      "summary": "‘Meta owes us an explanation,’ group says as organizers fear censorship after account goes dark for several hours The coalition leaders behind nationwide pro-democracy protests that have drawn millions of Ameri…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-10-18T23:53:48Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/ac9bb00e4c679b0e3959ae0f8e9825f1461f7202/116_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=f158e4144d5e376374a809cd597806c1",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-fe1da706fb4d295f",
+      "category": "world",
+      "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+      "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-movi…",
+      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-10-18T23:53:13Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-5f4f119b31526a85",
+      "category": "world",
+      "title": "Obama condemns comments by ‘border czar’ that Ilhan Omar could ‘of course’ be denaturalized",
+      "summary": "Ex-president urges Americans to defend congresswoman, saying ‘there’s no reason to believe it will stop with her’ Former US president Barack Obama condemned comments by Donald Trump’s “border czar” that the Rep…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-10-18T23:51:31Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/62774eed1226452588c991829bcceed1df9488f1/377_0_3213_2571/master/3213.jpg?width=140&quality=85&auto=format&fit=max&s=5347b95e1548142e41ecd2644f5d5093",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-d56b0cfda0680c5d",
+      "category": "world",
+      "title": "Times’s investigation adds more intrigue to infamous OJ Simpson case",
+      "summary": "Report reveals that a shady mobster-turned-informant may have been involved in helping cover up murder An in-depth investigation by the New York Times is raising further questions about the high-profile OJ Simp…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/oj-simpson-case-times-report",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-10-18T23:35:07Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/85483f6dc40146b9441fe66c0dd88a68e3c9273d/0_42_2200_1760/master/2200.jpg?width=140&quality=85&auto=format&fit=max&s=f6f55131243b9bc22e01ff8488dd65fa",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-2064d808e1e7e059",
+      "category": "finance",
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-10-18T23:28:45Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-022ad7569a85a72f",
+      "category": "finance",
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-10-18T23:24:59Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-aedafe535ac63bf5",
+      "category": "world",
+      "title": "Labor promises $30 weekly cap for Victorian public transport amid push for free travel",
+      "summary": "Premier Ben Carroll says two-year limit will be in place on 1 January if re-elected, while Greens say there should be no fares Get our breaking news email , free app or daily news podcast Public transport fares…",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/labor-promises-30-weekly-cap-for-victorian-public-transport-amid-push-for-free-travel",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-10-18T23:20:22Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/ae0570ae286c81b6cc311a5870380886e20c27fb/420_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=6fd2bf81680f0784fe65dc814e54a356",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
     {
       "id": "rss-96a1d05f6574f4f5",
       "category": "world",
@@ -13,6 +111,20 @@
       "source_id": "bbc_world",
       "published_at": "2026-10-18T23:20:15Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-dbb8839714c73ba7",
+      "category": "world",
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · World",
+      "source_id": "bbc_world",
+      "published_at": "2026-10-18T23:06:09Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e891/live/86ce21f0-cb34-11f1-9a39-31b474234113.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -116,15 +228,15 @@
       "importance_score": 72
     },
     {
-      "id": "rss-fe1da706fb4d295f",
+      "id": "rss-6ef5628df05faefd",
       "category": "world",
-      "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-      "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-movi…",
-      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-18T22:26:15Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · World",
+      "source_id": "bbc_world",
+      "published_at": "2026-10-18T22:22:51Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/26c3d1c0-cb47-11f1-bc2e-018d645d8d21.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -139,48 +251,6 @@
       "source_id": "guardian_world",
       "published_at": "2026-10-18T22:01:10Z",
       "image_candidate": "https://i.guim.co.uk/img/media/4d5d6a5d440aed0a1cd19ae1126a5b5e117e7a63/337_0_3922_3138/master/3922.jpg?width=140&quality=85&auto=format&fit=max&s=860f60f9cd14f222c26d5f7be7bb02e6",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-c82761c1e12b3687",
-      "category": "world",
-      "title": "Trump says DC golf course ‘restoration’ to start despite judge’s order to pause plans",
-      "summary": "Judge orders government to notify her by 8pm ET Sunday whether its position changed from Friday’s court filing Donald Trump posted on Truth Social on Sunday that “restoration work will begin” on 15 November to…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/18/trump-dc-golf-course-renovation",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-18T21:44:21Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/3ca631f85573f7d6dc2d7e98b67228c8b7f16fe0/1151_0_4715_3774/master/4715.jpg?width=140&quality=85&auto=format&fit=max&s=512623db7e7f13a23ed314d7c2a6c1a0",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-670c82a8c9804676",
-      "category": "world",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-10-18T21:37:56Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-78cbf27c29cfeab6",
-      "category": "world",
-      "title": "CBS reporter apologizes and deletes post praising Abdul El-Sayed heckler",
-      "summary": "Jan Crawford had praised man who asked Democratic candidate whether he would disavow Muslim Brotherhood CBS ’s chief legal correspondent Jan Crawford has apologized for and deleted a social media post praising…",
-      "url": "https://www.theguardian.com/media/2026/oct/18/cbs-reporter-apologizes-abdul-el-sayed-post",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-18T21:07:58Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/7ba03938b1e04ec9513de537fd928c26fe0c8f40/253_0_3184_2548/master/3184.jpg?width=140&quality=85&auto=format&fit=max&s=9ed8674f9ea39924e93bfa3beb15971e",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -209,34 +279,6 @@
       "source_id": "bbc_world",
       "published_at": "2026-10-18T20:33:21Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-a8335421abcc6a50",
-      "category": "world",
-      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-      "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-10-18T19:53:27Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-0cd07f576454a438",
-      "category": "world",
-      "title": "Kansas driver who allegedly killed two and hurt 10 at soccer game is released from custody",
-      "summary": "Wichita police awaiting toxicology results and mechanical exam of pickup truck driven by the 34-year-old woman A woman who was arrested on Saturday after she drove a truck through a youth soccer game in Wichita…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-10-18T19:30:58Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/ec6b5cbd7ad36ef6d45ced7d4676694cf395548f/223_0_1111_889/master/1111.jpg?width=140&quality=85&auto=format&fit=max&s=4e0b67f72cac10ec16eb08dd735c782a",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -368,29 +410,15 @@
       "importance_score": 71
     },
     {
-      "id": "rss-fbebe2bdda38e856",
+      "id": "rss-a8335421abcc6a50",
       "category": "world",
-      "title": "What’s behind Europe’s youth protests?",
-      "summary": "What's behind Europe's youth protests?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-10-18T20:05:07Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-d450f4d8bbcfc8b1",
-      "category": "world",
-      "title": "India’s crackdown on cockroaches, critics and cameras",
-      "summary": "A government at war with its critics - from young protesters to the media.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-10-18T19:31:45Z",
-      "image_candidate": null,
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · World",
+      "source_id": "bbc_world",
+      "published_at": "2026-10-18T19:53:27Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
@@ -522,18 +550,32 @@
       "importance_score": 71
     },
     {
-      "id": "rss-cae4297ec407ec6a",
+      "id": "rss-fbebe2bdda38e856",
       "category": "world",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-10-18T15:46:10Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg",
+      "title": "What’s behind Europe’s youth protests?",
+      "summary": "What's behind Europe's youth protests?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-10-18T20:05:07Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
+      "importance_score": 70
+    },
+    {
+      "id": "rss-d450f4d8bbcfc8b1",
+      "category": "world",
+      "title": "India’s crackdown on cockroaches, critics and cameras",
+      "summary": "A government at war with its critics - from young protesters to the media.",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-10-18T19:31:45Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 70
     },
     {
       "id": "rss-a2b55ca528dc70b2",
@@ -690,20 +732,6 @@
       "importance_score": 70
     },
     {
-      "id": "rss-9842804e4ed6abe7",
-      "category": "world",
-      "title": "Trump endorses Netanyahu in Israeli legislative elections",
-      "summary": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader.",
-      "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-10-18T16:36:26Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
       "id": "rss-35cd62faf12b8e71",
       "category": "ai",
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
@@ -712,20 +740,6 @@
       "source": "TechCrunch AI",
       "source_id": "techcrunch_ai",
       "published_at": "2026-10-18T16:30:00Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
-      "id": "rss-00c9b0587d50ae00",
-      "category": "world",
-      "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
-      "summary": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to 'alter the status quo'.",
-      "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-10-18T16:25:52Z",
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
@@ -802,20 +816,6 @@
       "importance_score": 69
     },
     {
-      "id": "rss-9692486eeb77934b",
-      "category": "ai",
-      "title": "Giving AI a “crystal clear” view of the materials world",
-      "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
-      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-      "source": "MIT News AI",
-      "source_id": "mit_ai_overseas",
-      "published_at": "2026-10-18T04:00:00Z",
-      "image_candidate": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Synthetic-Narratives-01-press.jpg?itok=Bh8fzury",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 69
-    },
-    {
       "id": "rss-3f29fb9495d75682",
       "category": "finance",
       "title": "Heating oil customers face tough winter",
@@ -825,6 +825,20 @@
       "source_id": "bbc_business",
       "published_at": "2026-10-18T06:07:40Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/039e/live/09d7c130-c7c7-11f1-bc2e-018d645d8d21.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
+    },
+    {
+      "id": "rss-9692486eeb77934b",
+      "category": "ai",
+      "title": "Giving AI a “crystal clear” view of the materials world",
+      "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
+      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "source": "MIT News AI",
+      "source_id": "mit_ai_overseas",
+      "published_at": "2026-10-18T04:00:00Z",
+      "image_candidate": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Synthetic-Narratives-01-press.jpg?itok=Bh8fzury",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 68
@@ -914,20 +928,6 @@
       "importance_score": 64
     },
     {
-      "id": "rss-c041939f55283af6",
-      "category": "finance",
-      "title": "Low-cost clinic helps pet owners with vet bills",
-      "summary": "RSPCA Medway West launches its clinic for the pets of people with low incomes.",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-10-17T14:12:02Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84fa/live/1e9e0a60-ca34-11f1-9ab2-b325ce61f9d2.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
-    },
-    {
       "id": "rss-578ef30bdd4c9286",
       "category": "finance",
       "title": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
@@ -981,7 +981,7 @@
       "image_candidate": "https://i.guim.co.uk/img/media/446c1773fea046f80e07ca9533f82b2eaa90e1e6/494_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=aa4cee8a1aabe7c0ef821e19e4acd335",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 62
+      "importance_score": 61
     },
     {
       "id": "rss-d573eb1805cab5c4",
@@ -995,7 +995,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/388f/live/422e53f0-c9fc-11f1-bb10-89ce65f72e2c.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 62
+      "importance_score": 61
     },
     {
       "id": "rss-dea95347e4b6c9d7",
@@ -1010,20 +1010,6 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 61
-    },
-    {
-      "id": "rss-bd03643a45398d75",
-      "category": "ai",
-      "title": "Fostering community amid Kendall Square’s innovation",
-      "summary": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
-      "url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
-      "source": "MIT News AI",
-      "source_id": "mit_ai_overseas",
-      "published_at": "2026-10-16T16:00:00Z",
-      "image_candidate": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-KSA26-01-press.jpg?itok=etuhLb0w",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 60
     },
     {
       "id": "rss-16df95b107d54710",
@@ -1054,6 +1040,20 @@
       "importance_score": 59
     },
     {
+      "id": "rss-bd03643a45398d75",
+      "category": "ai",
+      "title": "Fostering community amid Kendall Square’s innovation",
+      "summary": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
+      "url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
+      "source": "MIT News AI",
+      "source_id": "mit_ai_overseas",
+      "published_at": "2026-10-16T16:00:00Z",
+      "image_candidate": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-KSA26-01-press.jpg?itok=etuhLb0w",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 59
+    },
+    {
       "id": "rss-76457f6ede32e47c",
       "category": "ai",
       "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
@@ -1065,7 +1065,7 @@
       "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Torres-headshot-1152x648.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 59
+      "importance_score": 58
     },
     {
       "id": "rss-00bf2016198fbcc7",
@@ -1079,7 +1079,7 @@
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 59
+      "importance_score": 58
     },
     {
       "id": "rss-a9bfc73b70d7a162",
@@ -1166,6 +1166,20 @@
       "importance_score": 58
     },
     {
+      "id": "rss-528ff2fd500f7c20",
+      "category": "finance",
+      "title": "Watch: Did Tesla really just unveil a flying car?",
+      "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+      "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-10-16T12:32:31Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 58
+    },
+    {
       "id": "rss-5cea1aeddd4affb9",
       "category": "ai",
       "title": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -1177,7 +1191,7 @@
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 58
+      "importance_score": 57
     },
     {
       "id": "rss-e9c3d49cc9d74faa",
@@ -1191,7 +1205,7 @@
       "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-1024x648.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 58
+      "importance_score": 57
     },
     {
       "id": "rss-7ff2fab56ea772a2",
@@ -1205,7 +1219,7 @@
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 58
+      "importance_score": 57
     },
     {
       "id": "rss-f1315209d972f617",
@@ -1219,21 +1233,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 58
-    },
-    {
-      "id": "rss-528ff2fd500f7c20",
-      "category": "finance",
-      "title": "Watch: Did Tesla really just unveil a flying car?",
-      "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
-      "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-10-16T12:32:31Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 58
+      "importance_score": 57
     },
     {
       "id": "rss-e1b3c44f13458aa6",
