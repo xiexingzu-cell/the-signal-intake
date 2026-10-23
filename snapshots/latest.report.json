@@ -48,10 +48,10 @@
     "finance": 30,
     "quant": 22
   },
-  "period_start": "2026-10-20T00:02:20.072138+00:00",
-  "period_end": "2026-10-23T00:02:20.072138+00:00",
+  "period_start": "2026-10-20T00:33:46.923012+00:00",
+  "period_end": "2026-10-23T00:33:46.923012+00:00",
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-10-23T00:02:20.072138Z",
+  "generated_at": "2026-10-23T00:33:46.923012Z",
   "snapshot_entries": 100,
   "preview_only": true
 }
