@@ -44,14 +44,14 @@
   "total_accepted": 215,
   "selected": 100,
   "category_counts": {
-    "finance": 30,
     "world": 40,
+    "finance": 30,
     "ai": 30
   },
-  "period_start": "2026-10-21T23:27:39.148487+00:00",
-  "period_end": "2026-10-24T23:27:39.148487+00:00",
+  "period_start": "2026-10-22T00:14:26.531862+00:00",
+  "period_end": "2026-10-25T00:14:26.531862+00:00",
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-10-24T23:27:39.148487Z",
+  "generated_at": "2026-10-25T00:14:26.531862Z",
   "snapshot_entries": 100,
   "preview_only": true
 }
