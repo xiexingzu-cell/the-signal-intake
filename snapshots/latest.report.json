@@ -8,8 +8,8 @@
     "bbc_business:rejected": 15,
     "bbc_business:duplicate": 3,
     "bbc_technology:feed_items": 20,
-    "bbc_technology:duplicate": 6,
     "bbc_technology:accepted": 2,
+    "bbc_technology:duplicate": 6,
     "bbc_technology:rejected": 12,
     "bbc_world:feed_items": 27,
     "bbc_world:accepted": 25,
@@ -48,10 +48,10 @@
     "ai": 30,
     "quant": 25
   },
-  "period_start": "2026-10-26T01:05:23.224012+00:00",
-  "period_end": "2026-10-29T01:05:23.224012+00:00",
+  "period_start": "2026-10-26T01:43:15.783293+00:00",
+  "period_end": "2026-10-29T01:43:15.783293+00:00",
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-10-29T01:05:23.224012Z",
+  "generated_at": "2026-10-29T01:43:15.783293Z",
   "snapshot_entries": 100,
   "preview_only": true
 }
