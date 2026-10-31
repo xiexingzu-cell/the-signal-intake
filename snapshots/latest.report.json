@@ -47,10 +47,10 @@
     "ai": 30,
     "quant": 25
   },
-  "period_start": "2026-10-28T00:54:07.546045+00:00",
-  "period_end": "2026-10-31T00:54:07.546045+00:00",
+  "period_start": "2026-10-28T01:30:09.405949+00:00",
+  "period_end": "2026-10-31T01:30:09.405949+00:00",
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-10-31T00:54:07.546045Z",
+  "generated_at": "2026-10-31T01:30:09.405949Z",
   "snapshot_entries": 100,
   "preview_only": true
 }
