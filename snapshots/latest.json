@@ -1,18 +1,46 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-06T01:40:44.941088Z",
+  "generated_at": "2026-11-06T02:14:58.366512Z",
   "provider": "github_actions_rss",
   "entries": [
     {
       "id": "rss-9e7d1c8dc3b08b40",
       "category": "world",
-      "title": "Beau Lamarre-Condon trial live updates: double murder accused tells court of ‘outer-body experience’ after shootings",
+      "title": "Beau Lamarre-Condon trial live updates: prosecution begins cross-examination of double murder accused",
       "summary": "Lamarre-Condon returns to witness box for day two of his evidence. He has pleaded not guilty to murdering the couple in Sydney in 2024 Get our breaking news email , free app or daily news podcast Lamarre-Condon…",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
       "source": "The Guardian · World",
       "source_id": "guardian_world",
-      "published_at": "2026-11-06T01:29:51Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/178_0_2715_2171/master/2715.jpg?width=140&quality=85&auto=format&fit=max&s=f28f36d7c46b054d98cea30d7767e80c",
+      "published_at": "2026-11-06T02:04:19Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/482_143_2922_2337/master/2922.jpg?width=140&quality=85&auto=format&fit=max&s=46ef6642807aa142505cd61ffe7241d7",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-7f806f4d6ebc196f",
+      "category": "finance",
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-06T01:44:03Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-667a8dcf183660e0",
+      "category": "world",
+      "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’",
+      "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024 Beau Lamarre-Condon trial live updates: former police officer continues evide…",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-06T01:36:20Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -27,20 +55,6 @@
       "source_id": "bbc_world",
       "published_at": "2026-11-06T01:28:03Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b37/live/0e287b40-d96e-11f1-9fd0-cdf612d1539f.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-7f806f4d6ebc196f",
-      "category": "finance",
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-06T01:26:52Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -180,7 +194,7 @@
       "source": "BBC News · World",
       "source_id": "bbc_world",
       "published_at": "2026-11-05T23:09:33Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6243/live/f34ef550-d982-11f1-9367-d509fddfe31c.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -214,18 +228,32 @@
       "importance_score": 72
     },
     {
-      "id": "rss-f6c87935e2a76919",
+      "id": "rss-45065205d34f05bf",
       "category": "world",
-      "title": "Fox News suffers ratings drop on bleak election night for Republicans",
-      "summary": "News channel trailed NBC and ABC, but edged out CNN, MS Now and CBS in primetime hours on midterm election night Q&A: Ask your questions about Democrats’ win in the midterms On a midterm election night that was…",
-      "url": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-05T22:04:20Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/37ef84d79f4790da044e8b58f149f13760b476a7/421_0_4210_3368/master/4210.jpg?width=140&quality=85&auto=format&fit=max&s=c08732c2af13b82821d498f38ed06ce6",
+      "title": "Gaza turns discarded cooking pots into seawalls",
+      "summary": "As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-06T02:03:47Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
+    },
+    {
+      "id": "rss-f81d9a6f15344d0f",
+      "category": "world",
+      "title": "California governor commutes sentences of more than 500 people on death row",
+      "summary": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-06T01:39:35Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
     },
     {
       "id": "rss-3b186b1a4937686b",
@@ -354,48 +382,6 @@
       "importance_score": 71
     },
     {
-      "id": "rss-e0272f10e3478250",
-      "category": "ai",
-      "title": "Sony revives the original Walkman headphones, adds USB-C",
-      "summary": "Orange ear cushions included.",
-      "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-05T21:56:36Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027641_000001_feature-2-3-D-1152x648.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-8d135c45d30ce6c4",
-      "category": "world",
-      "title": "Generation Z and young voters help redefine US politics after midterms",
-      "summary": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-11-05T21:49:31Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-30dc79f7cea16241",
-      "category": "world",
-      "title": "South Africa’s ANC on track for new lows in local polls",
-      "summary": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-11-05T21:48:16Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
       "id": "rss-5c50352f02719aed",
       "category": "finance",
       "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
@@ -408,6 +394,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
+    },
+    {
+      "id": "rss-e0272f10e3478250",
+      "category": "ai",
+      "title": "Sony revives the original Walkman headphones, adds USB-C",
+      "summary": "Orange ear cushions included.",
+      "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-05T21:56:36Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027641_000001_feature-2-3-D-1152x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 70
     },
     {
       "id": "rss-c73a8421f0de0a7d",
@@ -536,34 +536,6 @@
       "importance_score": 70
     },
     {
-      "id": "rss-2a8256897722920e",
-      "category": "ai",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads…",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-05T18:02:27Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
-      "id": "rss-b86f7c45dcb3e542",
-      "category": "ai",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-05T18:00:00Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
       "id": "rss-c5cfc173e64341d8",
       "category": "finance",
       "title": "Interest rates hiked to 4% in first increase in over three years",
@@ -620,18 +592,32 @@
       "importance_score": 70
     },
     {
-      "id": "rss-901084e3e7a245fd",
-      "category": "finance",
-      "title": "What does the raise in interest rates mean?",
-      "summary": "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house.",
-      "url": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-05T14:02:24Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8981/live/dfdf1a30-d91f-11f1-93e1-3b657b665bcf.jpg",
+      "id": "rss-2a8256897722920e",
+      "category": "ai",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads…",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-05T18:02:27Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
+      "importance_score": 69
+    },
+    {
+      "id": "rss-b86f7c45dcb3e542",
+      "category": "ai",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-05T18:00:00Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 69
     },
     {
       "id": "rss-aaddea4db7b3865d",
@@ -746,15 +732,15 @@
       "importance_score": 69
     },
     {
-      "id": "rss-f5a829f9a8eba31c",
-      "category": "ai",
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-05T14:00:00Z",
-      "image_candidate": null,
+      "id": "rss-901084e3e7a245fd",
+      "category": "finance",
+      "title": "What does the raise in interest rates mean?",
+      "summary": "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house.",
+      "url": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-05T14:02:24Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8981/live/dfdf1a30-d91f-11f1-93e1-3b657b665bcf.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
@@ -816,18 +802,18 @@
       "importance_score": 69
     },
     {
-      "id": "rss-b2b7f559b12578ec",
-      "category": "finance",
-      "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-      "summary": "A little-known investment group has made a bid to buy the business.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-05T09:46:32Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f8/live/fbd28350-d904-11f1-a701-fddedf244c16.jpg",
+      "id": "rss-f5a829f9a8eba31c",
+      "category": "ai",
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-05T14:00:00Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 69
+      "importance_score": 68
     },
     {
       "id": "rss-2fd237ae4bf33b8f",
@@ -914,6 +900,20 @@
       "importance_score": 68
     },
     {
+      "id": "rss-b2b7f559b12578ec",
+      "category": "finance",
+      "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+      "summary": "A little-known investment group has made a bid to buy the business.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-05T09:46:32Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f8/live/fbd28350-d904-11f1-a701-fddedf244c16.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
+    },
+    {
       "id": "rss-62fc3db94941045e",
       "category": "finance",
       "title": "Tech barons cozied up to Trump. What will they do in newly blue America?",
@@ -951,20 +951,6 @@
       "source_id": "bbc_business",
       "published_at": "2026-11-05T06:58:03Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0027/live/fe2f8c90-d848-11f1-b870-55415e6a9944.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 68
-    },
-    {
-      "id": "rss-8069ec729be7e6b3",
-      "category": "finance",
-      "title": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
-      "summary": "Their message on cost of living resonated with voters. Now they must show they can deliver.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-05T06:01:05Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e67/live/3c87a5f0-d906-11f1-960e-7dd59f59b29b.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 68
@@ -1292,6 +1278,20 @@
       "importance_score": 67
     },
     {
+      "id": "rss-8069ec729be7e6b3",
+      "category": "finance",
+      "title": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
+      "summary": "Their message on cost of living resonated with voters. Now they must show they can deliver.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-05T06:01:05Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e67/live/3c87a5f0-d906-11f1-960e-7dd59f59b29b.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 67
+    },
+    {
       "id": "rss-806fd4811804d7b2",
       "category": "finance",
       "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
@@ -1334,20 +1334,6 @@
       "importance_score": 66
     },
     {
-      "id": "rss-5420898fdc120aaa",
-      "category": "finance",
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-04T21:41:15Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 66
-    },
-    {
       "id": "rss-ad1030df5ce46710",
       "category": "ai",
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -1362,15 +1348,15 @@
       "importance_score": 65
     },
     {
-      "id": "rss-a2676834c027e1d6",
+      "id": "rss-5420898fdc120aaa",
       "category": "finance",
-      "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
-      "summary": "E.l.f. Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.",
-      "url": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
-      "source": "CNBC Business",
-      "source_id": "cnbc_finance",
-      "published_at": "2026-11-04T21:47:22Z",
-      "image_candidate": null,
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-04T21:41:15Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 65
@@ -1388,6 +1374,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 65
+    },
+    {
+      "id": "rss-a2676834c027e1d6",
+      "category": "finance",
+      "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
+      "summary": "E.l.f. Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.",
+      "url": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
+      "source": "CNBC Business",
+      "source_id": "cnbc_finance",
+      "published_at": "2026-11-04T21:47:22Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 64
     },
     {
       "id": "rss-ccd4e85bf4b66e86",
