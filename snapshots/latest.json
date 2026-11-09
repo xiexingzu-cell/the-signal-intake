@@ -1,8 +1,22 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-09T01:03:03.896554Z",
+  "generated_at": "2026-11-09T01:38:40.078017Z",
   "provider": "github_actions_rss",
   "entries": [
+    {
+      "id": "rss-29a8d40855f0fde7",
+      "category": "world",
+      "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+      "summary": "President says it was ‘just a little fun’ to picture White, UFC boss and Trump’s friend, in briefing room with fighters Donald Trump said on Sunday that he “was only kidding” when he announced a day earlier tha…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-09T01:10:55Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/bd59d8bbfe95eb6a46d7a98c6c485d6c246d296c/1023_574_3265_2613/master/3265.jpg?width=140&quality=85&auto=format&fit=max&s=6f79b9b2de71d5627a16c8f3746aa578",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
     {
       "id": "rss-444d01e4a7698420",
       "category": "finance",
@@ -139,62 +153,6 @@
       "source_id": "bbc_world",
       "published_at": "2026-11-08T22:05:12Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fc/live/a92bdf90-dbbe-11f1-b441-2b33b063138f.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-f6a555d4b54618fb",
-      "category": "world",
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-11-08T21:37:36Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-9c52717d8356d9fd",
-      "category": "world",
-      "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
-      "summary": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania Get our breaking news email , free app or daily news podcast Snow blanketed parts of New South Wales, Victo…",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-08T21:25:10Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/cec2d40cb1736bf071e01cfe1c16506146148e45/467_97_1218_975/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=f0b668a0c2353f200a661bd995771642",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-892996f722c40901",
-      "category": "world",
-      "title": "Two police officers hailed as heroes for confronting Kraków gunman",
-      "summary": "Jakub Kulik critically injured and Artur Morański also wounded after actions that ‘prevented further casualties’ Two Polish police officers who were injured as they pursued and detained the gunman in Kraków on…",
-      "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-08T21:11:40Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/7f8112bf9742147977087d1aca2e17658270fb08/156_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=1e057f6462b3a90dfb471f4c3ef1cfbd",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-1822d242ab8e5500",
-      "category": "world",
-      "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
-      "summary": "Nationwide, voters elected at least 75 Native women or non-binary candidates in Tuesday’s elections, report says The US midterm elections saw voters elect a slew of historic representatives – from the country’s…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-08T21:04:49Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/d5136ba6cc395069555a94fc1fa69c5b198f8bf2/197_0_4321_3457/master/4321.jpg?width=140&quality=85&auto=format&fit=max&s=01770a9983b1230f8e62416df55f9929",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -368,15 +326,57 @@
       "importance_score": 71
     },
     {
-      "id": "rss-0fec8f0159716b0d",
+      "id": "rss-f6a555d4b54618fb",
       "category": "world",
-      "title": "Deadly sand cliff collapses on displaced families in Gaza",
-      "summary": "Deadly sand cliff collapses on displaced families in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-11-08T21:05:07Z",
-      "image_candidate": null,
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · World",
+      "source_id": "bbc_world",
+      "published_at": "2026-11-08T21:37:36Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-9c52717d8356d9fd",
+      "category": "world",
+      "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
+      "summary": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania Get our breaking news email , free app or daily news podcast Snow blanketed parts of New South Wales, Victo…",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-08T21:25:10Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/cec2d40cb1736bf071e01cfe1c16506146148e45/467_97_1218_975/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=f0b668a0c2353f200a661bd995771642",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-892996f722c40901",
+      "category": "world",
+      "title": "Two police officers hailed as heroes for confronting Kraków gunman",
+      "summary": "Jakub Kulik critically injured and Artur Morański also wounded after actions that ‘prevented further casualties’ Two Polish police officers who were injured as they pursued and detained the gunman in Kraków on…",
+      "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-08T21:11:40Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/7f8112bf9742147977087d1aca2e17658270fb08/156_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=1e057f6462b3a90dfb471f4c3ef1cfbd",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-1822d242ab8e5500",
+      "category": "world",
+      "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
+      "summary": "Nationwide, voters elected at least 75 Native women or non-binary candidates in Tuesday’s elections, report says The US midterm elections saw voters elect a slew of historic representatives – from the country’s…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-08T21:04:49Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/d5136ba6cc395069555a94fc1fa69c5b198f8bf2/197_0_4321_3457/master/4321.jpg?width=140&quality=85&auto=format&fit=max&s=01770a9983b1230f8e62416df55f9929",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
@@ -480,20 +480,6 @@
       "importance_score": 71
     },
     {
-      "id": "rss-aaa9539f55510ac6",
-      "category": "world",
-      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
-      "summary": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in Congress Donald Trump set the stage for his administration to lurch further to the right this weekend, c…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-08T17:58:43Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/ebaa793edf007e24d57fafa59f1090d96cdcbe60/332_0_3323_2658/master/3323.jpg?width=140&quality=85&auto=format&fit=max&s=3a805f3c5d5fb31128b72712d90154ab",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
       "id": "rss-0710a39b76016560",
       "category": "world",
       "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
@@ -520,6 +506,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
+    },
+    {
+      "id": "rss-0fec8f0159716b0d",
+      "category": "world",
+      "title": "Deadly sand cliff collapses on displaced families in Gaza",
+      "summary": "Deadly sand cliff collapses on displaced families in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-08T21:05:07Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 70
     },
     {
       "id": "rss-ee8a82eeb43dfcd5",
@@ -732,20 +732,6 @@
       "importance_score": 66
     },
     {
-      "id": "rss-c4c648932b3d7ff1",
-      "category": "finance",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-07T21:36:16Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 66
-    },
-    {
       "id": "rss-e3d6f99e0ff04bc7",
       "category": "ai",
       "title": "Can the Zelda remake capture the magic of the original?",
@@ -774,6 +760,20 @@
       "importance_score": 65
     },
     {
+      "id": "rss-c4c648932b3d7ff1",
+      "category": "finance",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-07T21:36:16Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 65
+    },
+    {
       "id": "rss-4e392e0aaa878514",
       "category": "ai",
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -785,7 +785,7 @@
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 65
+      "importance_score": 64
     },
     {
       "id": "rss-651cae9839621e78",
@@ -914,20 +914,6 @@
       "importance_score": 60
     },
     {
-      "id": "rss-de0c28c9953fb6e7",
-      "category": "finance",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-06T21:06:25Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 60
-    },
-    {
       "id": "rss-0bb49f96544d94ec",
       "category": "ai",
       "title": "How to predict the behavior of molecules from scant data",
@@ -998,6 +984,20 @@
       "importance_score": 59
     },
     {
+      "id": "rss-de0c28c9953fb6e7",
+      "category": "finance",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-06T21:06:25Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 59
+    },
+    {
       "id": "rss-01856f52ceb43a68",
       "category": "finance",
       "title": "Why the US midterms sparked an AI stock selloff",
@@ -1007,34 +1007,6 @@
       "source_id": "bbc_business",
       "published_at": "2026-11-06T18:32:16Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 59
-    },
-    {
-      "id": "rss-6700a98b6b621ba3",
-      "category": "finance",
-      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-      "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-06T17:19:38Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67af/live/52b739e0-da04-11f1-84c1-dbcae60402d7.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 59
-    },
-    {
-      "id": "rss-523d76047aac70b3",
-      "category": "finance",
-      "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
-      "summary": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in…",
-      "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-11-06T17:04:41Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/b17a059303674bee4fb3dec0de66bf842d9d60d6/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=277623698e965024e7df131a0134b0dc",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 59
@@ -1194,29 +1166,29 @@
       "importance_score": 58
     },
     {
-      "id": "rss-b7e06d2c4d9dada9",
-      "category": "ai",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority v…",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-06T17:23:52Z",
-      "image_candidate": null,
+      "id": "rss-6700a98b6b621ba3",
+      "category": "finance",
+      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+      "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-06T17:19:38Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67af/live/52b739e0-da04-11f1-84c1-dbcae60402d7.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 58
     },
     {
-      "id": "rss-ac91f8bd6c4b4df8",
-      "category": "ai",
-      "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
-      "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
-      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-06T17:06:32Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg",
+      "id": "rss-523d76047aac70b3",
+      "category": "finance",
+      "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
+      "summary": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in…",
+      "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-11-06T17:04:41Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/b17a059303674bee4fb3dec0de66bf842d9d60d6/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=277623698e965024e7df131a0134b0dc",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 58
@@ -1276,6 +1248,34 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 58
+    },
+    {
+      "id": "rss-b7e06d2c4d9dada9",
+      "category": "ai",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority v…",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-06T17:23:52Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 57
+    },
+    {
+      "id": "rss-ac91f8bd6c4b4df8",
+      "category": "ai",
+      "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
+      "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
+      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-06T17:06:32Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 57
     },
     {
       "id": "rss-9e40c95d4da9e2b4",
@@ -1348,20 +1348,6 @@
       "importance_score": 57
     },
     {
-      "id": "rss-26ba2cc546b8b5c7",
-      "category": "finance",
-      "title": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens",
-      "summary": "Automakers are warning about higher commodity, logistics and memory costs, while pricing power is becoming harder to extend to consumers.",
-      "url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
-      "source": "CNBC Business",
-      "source_id": "cnbc_finance",
-      "published_at": "2026-11-06T13:19:53Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 57
-    },
-    {
       "id": "rss-6271bef94c80eeb0",
       "category": "finance",
       "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
@@ -1402,6 +1388,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 57
+    },
+    {
+      "id": "rss-26ba2cc546b8b5c7",
+      "category": "finance",
+      "title": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens",
+      "summary": "Automakers are warning about higher commodity, logistics and memory costs, while pricing power is becoming harder to extend to consumers.",
+      "url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
+      "source": "CNBC Business",
+      "source_id": "cnbc_finance",
+      "published_at": "2026-11-06T13:19:53Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 56
     }
   ]
 }
