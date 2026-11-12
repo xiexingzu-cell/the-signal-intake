@@ -1,18 +1,60 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-12T02:20:11.786326Z",
+  "generated_at": "2026-11-12T02:51:00.095400Z",
   "provider": "github_actions_rss",
   "entries": [
+    {
+      "id": "rss-ba0f48ae267121da",
+      "category": "world",
+      "title": "New York building collapse kills one person and injures 12",
+      "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · World",
+      "source_id": "bbc_world",
+      "published_at": "2026-11-12T02:33:12Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-86c177b40d99b068",
+      "category": "world",
+      "title": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
+      "summary": "Colom beat Republican Cindy Hyde-Smith after race was called eight days after midterm election day Democrat Scott Colom wins race for US Senate in Mississippi How Colom won deep-red Mississippi with little help…",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-12T02:31:22Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/94dc17433aba4186d1d5c3aeaa90b0a28a0a1ded/865_0_4664_3732/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=67df36ccb42b19c4f756517bdbc5196e",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
     {
       "id": "rss-c20da2f52115f645",
       "category": "world",
       "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-      "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading Nvidia’s shares plunged in ⁠after-hours tra…",
+      "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading Reports that Nvidia’s board is weighing Jen…",
       "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
       "source": "The Guardian · World",
       "source_id": "guardian_world",
-      "published_at": "2026-11-12T02:12:34Z",
+      "published_at": "2026-11-12T02:30:45Z",
       "image_candidate": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-7dd6f112247d242e",
+      "category": "world",
+      "title": "Australian teen who went missing in bushland wearing only shorts and boots found alive after six days",
+      "summary": "William, 17, was reported missing after straying from his camp near Walhalla, in Victoria’s Gippsland region A teenage boy has been found alive after disappearing in dense bushland wearing only shorts and work…",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-12T02:30:28Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/63af96b5092d80db06ac583687c513b25d141988/0_11_1440_1151/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=b1b299bf30238b6f8edc25357362d698",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -32,20 +74,6 @@
       "importance_score": 72
     },
     {
-      "id": "rss-86c177b40d99b068",
-      "category": "world",
-      "title": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
-      "summary": "Colom beat Republican Cindy Hyde-Smith after race was called eight days after midterm election day Democrat Scott Colom wins race for US Senate in Mississippi How Colom won deep-red Mississippi with little help…",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-12T01:55:56Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/94dc17433aba4186d1d5c3aeaa90b0a28a0a1ded/865_0_4664_3732/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=67df36ccb42b19c4f756517bdbc5196e",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
       "id": "rss-0fc6b91c507b3153",
       "category": "world",
       "title": "Brooklyn building collapse kills at least two people and traps others in wreckage",
@@ -55,20 +83,6 @@
       "source_id": "guardian_world",
       "published_at": "2026-11-12T01:51:00Z",
       "image_candidate": "https://i.guim.co.uk/img/media/a2b6a41d40ff2f77ee60bd0b7ed4dada6826bd87/485_0_4853_3882/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=e7372fdbd1c0b8020ee98c7be84ab2a3",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-ba0f48ae267121da",
-      "category": "world",
-      "title": "New York building collapse kills one person and injures 12",
-      "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
-      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-11-12T01:34:58Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -133,7 +147,7 @@
       "id": "rss-2a90b64e8447b25c",
       "category": "world",
       "title": "Beau Lamarre-Condon admits throwing Jesse Baird’s phone off a bridge after alleged murders, trial hears",
-      "summary": "Court hears former police officer agrees he was trying to destroy evidence that might incriminate him Beau Lamarre-Condon has admitted he threw Jesse Baird’s phone off a bridge to destroy evidence after alleged…",
+      "summary": "Court hears former police officer agrees he was trying to destroy evidence that might incriminate him Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has admitted he threw Jesse…",
       "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
       "source": "The Guardian · World",
       "source_id": "guardian_world",
@@ -242,20 +256,6 @@
       "importance_score": 72
     },
     {
-      "id": "rss-ffea957c41531bf2",
-      "category": "world",
-      "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
-      "summary": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt…",
-      "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-11T22:50:37Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/5f0e172be373c018a12f48404e6f254c91d549ca/422_0_4220_3376/master/4220.jpg?width=140&quality=85&auto=format&fit=max&s=5b44c95a84ceeb5a96ac084004cb4724",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
       "id": "rss-2c1c14009b34ac8b",
       "category": "ai",
       "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -326,20 +326,6 @@
       "importance_score": 71
     },
     {
-      "id": "rss-19670c9e1222c732",
-      "category": "finance",
-      "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
-      "summary": "American Airlines' first-class food options include sandwiches, fruit and chia bowls",
-      "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
-      "source": "CNBC Business",
-      "source_id": "cnbc_finance",
-      "published_at": "2026-11-11T22:20:58Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
       "id": "rss-3a0b6122a2ac65d0",
       "category": "finance",
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -380,6 +366,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
+    },
+    {
+      "id": "rss-19670c9e1222c732",
+      "category": "finance",
+      "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+      "summary": "American Airlines' first-class food options include sandwiches, fruit and chia bowls",
+      "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+      "source": "CNBC Business",
+      "source_id": "cnbc_finance",
+      "published_at": "2026-11-11T22:20:58Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 70
     },
     {
       "id": "rss-5191e3f9624ac4fb",
@@ -1292,34 +1292,6 @@
       "importance_score": 65
     },
     {
-      "id": "rss-65905bc8838015a3",
-      "category": "finance",
-      "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
-      "summary": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
-      "url": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
-      "source": "CNBC Business",
-      "source_id": "cnbc_finance",
-      "published_at": "2026-11-10T22:39:30Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 65
-    },
-    {
-      "id": "rss-d949e6f92cd9d416",
-      "category": "ai",
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-10T22:35:01Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 65
-    },
-    {
       "id": "rss-4aece83a558e150f",
       "category": "finance",
       "title": "Trump’s FCC nominee avoids questions from Democrats on Carr’s ‘censorship agenda’",
@@ -1346,6 +1318,34 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 65
+    },
+    {
+      "id": "rss-65905bc8838015a3",
+      "category": "finance",
+      "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+      "summary": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
+      "url": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+      "source": "CNBC Business",
+      "source_id": "cnbc_finance",
+      "published_at": "2026-11-10T22:39:30Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 64
+    },
+    {
+      "id": "rss-d949e6f92cd9d416",
+      "category": "ai",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-10T22:35:01Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 64
     },
     {
       "id": "rss-6d5f3c2ee7b3a809",
