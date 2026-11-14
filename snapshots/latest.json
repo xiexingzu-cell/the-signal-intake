@@ -1,18 +1,46 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-14T01:31:18.833207Z",
+  "generated_at": "2026-11-14T02:15:54.411611Z",
   "provider": "github_actions_rss",
   "entries": [
     {
       "id": "rss-8d6a28580c7d9f6c",
       "category": "world",
-      "title": "US flight outage live updates: Trump officials set to brief public hours after FAA grounds thousands of flights",
-      "summary": "Democratic lawmakers press Trump officials for more details about communication system failures as nationwide flight fiasco continues FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000…",
+      "title": "US flight outage live updates: FAA lifts nationwide ground stop as Trump officials holds press briefing",
+      "summary": "Sean Duffy says ‘it’s going to take us some time to unwind what’s happened’ but also points finger at Congress, claiming lack of funding for systems upgrades Sign up for the Breaking News US email In other tech…",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
       "source": "The Guardian · World",
       "source_id": "guardian_world",
-      "published_at": "2026-11-14T01:22:23Z",
+      "published_at": "2026-11-14T01:56:30Z",
       "image_candidate": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-dc03a868a1fd93dc",
+      "category": "world",
+      "title": "US-bound flights out of Australia grounded as telecommunications outage affects American travel",
+      "summary": "Sydney and Melbourne airports say grounding of planes from US airports led to delays for some flights US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US bound f…",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-14T01:54:25Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/0f73a43c7adabdff5e4709c7319a3e2dd6459d4d/2337_146_6560_5249/master/6560.jpg?width=140&quality=85&auto=format&fit=max&s=5e9b61407d5b8104eb046c8c98d7d409",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-315e43dca758242d",
+      "category": "world",
+      "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+      "summary": "No passengers or crew were killed or critically hurt after a tanker collided with a river cruise ship on the Mississippi River, officials say New Orleans river collision – latest updates In what the city’s mayo…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-14T01:29:11Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -20,8 +48,8 @@
     {
       "id": "rss-27fee21f2e308527",
       "category": "finance",
-      "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
-      "summary": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ FAA grounds thousands of flights – live The Federal Aviation Adminis…",
+      "title": "FAA lifts nationwide groundstop affecting more than 11,000 flights",
+      "summary": "Sean Duffy, the transportation secretary said the airspace was now open and the problem had been identified FAA grounds thousands of flights – live The Federal Aviation Administration (FAA) has lifted a nationw…",
       "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
       "source": "The Guardian · US Business",
       "source_id": "guardian_us_business",
@@ -130,20 +158,6 @@
       "importance_score": 72
     },
     {
-      "id": "rss-783d1d16752af139",
-      "category": "world",
-      "title": "Mamdani and Trump agree to delay on food stamp rules that put benefit at risk for millions",
-      "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply Zohran Mamdani, the New York City mayor, has struck a deal with Donald Trump to secure a 90-day del…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-13T23:53:43Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=140&quality=85&auto=format&fit=max&s=312b2756177b7c278a3a9469fa907879",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
       "id": "rss-2eafa4b1bb39d8eb",
       "category": "world",
       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
@@ -200,32 +214,18 @@
       "importance_score": 72
     },
     {
-      "id": "rss-e7b299eff0f699e4",
+      "id": "rss-60a97b606654159b",
       "category": "world",
-      "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
-      "summary": "Anti-corruption agency carried out searches as part of investigation into Orbán-era minister accused of taking bribes Hungary’s anti-corruption agency said on Friday it had seized cash worth $19.5m (£14.8m) bur…",
-      "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-13T22:12:54Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/6461a8e9e85b3a0f988ecc183b0798b784a32524/512_0_2566_2052/master/2566.jpg?width=140&quality=85&auto=format&fit=max&s=983e1129eb4afed3c581d7bf7308ca4c",
+      "title": "Tanker collision leaves riverboat passengers clinging to railings",
+      "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-14T01:37:08Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-bfd8ecb1b9ecf025",
-      "category": "world",
-      "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
-      "summary": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to bring shoppers back The long decline of the high street is a problem that has gripped British governments for years.…",
-      "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-13T21:34:43Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/d24ecfe085b5748a596ec8152c77a991779dc686/572_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=2fa830b4b6a80cafec41c4f31bf8de1b",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
       "id": "rss-332f7fa7e6f224cf",
@@ -312,20 +312,6 @@
       "importance_score": 71
     },
     {
-      "id": "rss-c628f8ad3420da2b",
-      "category": "ai",
-      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
-      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-13T21:59:01Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
       "id": "rss-334ebcca23065263",
       "category": "finance",
       "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
@@ -382,18 +368,18 @@
       "importance_score": 71
     },
     {
-      "id": "rss-2b34f75e836873d6",
-      "category": "finance",
-      "title": "Are board games making a comeback this Christmas?",
-      "summary": "Are board games making a comeback this Christmas?",
-      "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-13T18:00:40Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ae/live/c7c33a10-df89-11f1-b441-2b33b063138f.jpg",
+      "id": "rss-c628f8ad3420da2b",
+      "category": "ai",
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-13T21:59:01Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
+      "importance_score": 70
     },
     {
       "id": "rss-d594c39e97738b7d",
@@ -480,15 +466,15 @@
       "importance_score": 70
     },
     {
-      "id": "rss-829c82d81c0a08b0",
-      "category": "ai",
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Technology",
-      "source_id": "bbc_technology",
-      "published_at": "2026-11-13T17:34:58Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec8/live/6943b720-df71-11f1-93e1-3b657b665bcf.jpg",
+      "id": "rss-2b34f75e836873d6",
+      "category": "finance",
+      "title": "Are board games making a comeback this Christmas?",
+      "summary": "Are board games making a comeback this Christmas?",
+      "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-13T18:00:40Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ae/live/c7c33a10-df89-11f1-b441-2b33b063138f.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 70
@@ -536,18 +522,18 @@
       "importance_score": 70
     },
     {
-      "id": "rss-ffc7c80672e1846a",
-      "category": "finance",
-      "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-      "summary": "Supplies outstripped demand by almost 2m barrels a day in October as market shows ‘tentative signs of rebalancing’ The world’s oil supply is swinging back to a surplus for the first time since the start of the…",
-      "url": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-11-13T13:35:45Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/5b2b569f416b13096426488b7fd081de3679354e/759_0_4585_3669/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=36a563ead8599d4104ca2e8aee341c08",
+      "id": "rss-829c82d81c0a08b0",
+      "category": "ai",
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Technology",
+      "source_id": "bbc_technology",
+      "published_at": "2026-11-13T17:34:58Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec8/live/6943b720-df71-11f1-93e1-3b657b665bcf.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
+      "importance_score": 69
     },
     {
       "id": "rss-4b4e88316cc177dd",
@@ -676,15 +662,15 @@
       "importance_score": 69
     },
     {
-      "id": "rss-938c3e3c199878a4",
-      "category": "ai",
-      "title": "NHS, schools and police forces hit by Microsoft outage",
-      "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Technology",
-      "source_id": "bbc_technology",
-      "published_at": "2026-11-13T13:41:25Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f9/live/ddcb76c0-df51-11f1-8364-2717a13d3b08.jpg",
+      "id": "rss-ffc7c80672e1846a",
+      "category": "finance",
+      "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
+      "summary": "Supplies outstripped demand by almost 2m barrels a day in October as market shows ‘tentative signs of rebalancing’ The world’s oil supply is swinging back to a surplus for the first time since the start of the…",
+      "url": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-11-13T13:35:45Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/5b2b569f416b13096426488b7fd081de3679354e/759_0_4585_3669/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=36a563ead8599d4104ca2e8aee341c08",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
@@ -702,6 +688,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
+    },
+    {
+      "id": "rss-938c3e3c199878a4",
+      "category": "ai",
+      "title": "NHS, schools and police forces hit by Microsoft outage",
+      "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Technology",
+      "source_id": "bbc_technology",
+      "published_at": "2026-11-13T13:41:25Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f9/live/ddcb76c0-df51-11f1-8364-2717a13d3b08.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
     },
     {
       "id": "rss-cea0e000c38dfa2e",
@@ -1303,7 +1303,7 @@
       "image_candidate": "https://i.guim.co.uk/img/media/8371f47b7280e46fb9321628941d7375be61a95f/749_0_3751_3000/master/3751.jpg?width=140&quality=85&auto=format&fit=max&s=57a4aca5dad149f89cf0b4e6be29e6b8",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 65
+      "importance_score": 64
     },
     {
       "id": "rss-00916c7a76a8c68a",
