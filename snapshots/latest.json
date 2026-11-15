@@ -1,6 +1,6 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-15T01:08:35.662609Z",
+  "generated_at": "2026-11-15T01:45:57.361951Z",
   "provider": "github_actions_rss",
   "entries": [
     {
@@ -128,6 +128,34 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
+    },
+    {
+      "id": "rss-e51ec858d4c883e6",
+      "category": "world",
+      "title": "SpaceX’s Starship nails a smooth return with historic catch",
+      "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-15T01:22:01Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-2d961d9c606d44e3",
+      "category": "world",
+      "title": "Israeli air strike kills senior Hamas commander in Gaza",
+      "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-15T01:00:42Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
     },
     {
       "id": "rss-f6b407f900ecc675",
@@ -284,48 +312,6 @@
       "importance_score": 71
     },
     {
-      "id": "rss-e86112d5f8734949",
-      "category": "ai",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-14T21:41:22Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-ca8c879133309a69",
-      "category": "world",
-      "title": "US flights resume after ageing technology blamed for outage",
-      "summary": "US flights resume after ageing technology blamed for outage",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-11-14T21:36:19Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-3cdeed454ec88cb2",
-      "category": "world",
-      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-      "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-11-14T21:10:26Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
       "id": "rss-2eafa4b1bb39d8eb",
       "category": "world",
       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
@@ -466,18 +452,46 @@
       "importance_score": 71
     },
     {
-      "id": "rss-8c29e328f3a9e582",
-      "category": "world",
-      "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
-      "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding The Trump administration says Friday’s four-hour nationwide Federal Aviation Administration (FAA) groun…",
-      "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-14T17:11:18Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/6934b82431c8fab49bd4a56b9baaca81b07d75ae/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=b2b556b1036b2ad108c6ca8de27291e7",
+      "id": "rss-e86112d5f8734949",
+      "category": "ai",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-14T21:41:22Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
+      "importance_score": 70
+    },
+    {
+      "id": "rss-ca8c879133309a69",
+      "category": "world",
+      "title": "US flights resume after ageing technology blamed for outage",
+      "summary": "US flights resume after ageing technology blamed for outage",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-14T21:36:19Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 70
+    },
+    {
+      "id": "rss-3cdeed454ec88cb2",
+      "category": "world",
+      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+      "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-14T21:10:26Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 70
     },
     {
       "id": "rss-ce373aab00f599eb",
@@ -620,20 +634,6 @@
       "importance_score": 70
     },
     {
-      "id": "rss-823a88703cf7bca6",
-      "category": "world",
-      "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
-      "summary": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-11-14T18:02:53Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
       "id": "rss-0dac5bc8bd77a78d",
       "category": "ai",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -645,7 +645,7 @@
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
+      "importance_score": 69
     },
     {
       "id": "rss-8097820885cc543d",
@@ -816,20 +816,6 @@
       "importance_score": 66
     },
     {
-      "id": "rss-ccad5b837bef8046",
-      "category": "finance",
-      "title": "Microsoft outage shakes up companies, schools and local governments across US",
-      "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and loc…",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-11-13T21:13:59Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=00f4153beac0510e18c3ba0bc72b2e40",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 66
-    },
-    {
       "id": "rss-332f7fa7e6f224cf",
       "category": "ai",
       "title": "Tech Now",
@@ -914,29 +900,15 @@
       "importance_score": 65
     },
     {
-      "id": "rss-d594c39e97738b7d",
-      "category": "ai",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-13T21:20:47Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 65
-    },
-    {
-      "id": "rss-d3bc368f2c827e78",
-      "category": "ai",
-      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Technology",
-      "source_id": "bbc_technology",
-      "published_at": "2026-11-13T21:15:41Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9359/live/2eb34280-dfc4-11f1-93e1-3b657b665bcf.jpg",
+      "id": "rss-ccad5b837bef8046",
+      "category": "finance",
+      "title": "Microsoft outage shakes up companies, schools and local governments across US",
+      "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and loc…",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-11-13T21:13:59Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=00f4153beac0510e18c3ba0bc72b2e40",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 65
@@ -984,18 +956,32 @@
       "importance_score": 65
     },
     {
-      "id": "rss-b07d889338490439",
-      "category": "finance",
-      "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
-      "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high m…",
-      "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-11-13T17:20:32Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6",
+      "id": "rss-d594c39e97738b7d",
+      "category": "ai",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-13T21:20:47Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 65
+      "importance_score": 64
+    },
+    {
+      "id": "rss-d3bc368f2c827e78",
+      "category": "ai",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Technology",
+      "source_id": "bbc_technology",
+      "published_at": "2026-11-13T21:15:41Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9359/live/2eb34280-dfc4-11f1-93e1-3b657b665bcf.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 64
     },
     {
       "id": "rss-6abca871feff9104",
@@ -1054,29 +1040,15 @@
       "importance_score": 64
     },
     {
-      "id": "rss-829c82d81c0a08b0",
-      "category": "ai",
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Technology",
-      "source_id": "bbc_technology",
-      "published_at": "2026-11-13T17:34:58Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec8/live/6943b720-df71-11f1-93e1-3b657b665bcf.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
-    },
-    {
-      "id": "rss-4b4e88316cc177dd",
-      "category": "ai",
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-13T17:25:45Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
+      "id": "rss-b07d889338490439",
+      "category": "finance",
+      "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
+      "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high m…",
+      "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-11-13T17:20:32Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 64
@@ -1110,18 +1082,32 @@
       "importance_score": 64
     },
     {
-      "id": "rss-ffc7c80672e1846a",
-      "category": "finance",
-      "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-      "summary": "Supplies outstripped demand by almost 2m barrels a day in October as market shows ‘tentative signs of rebalancing’ The world’s oil supply is swinging back to a surplus for the first time since the start of the…",
-      "url": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-11-13T13:35:45Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/5b2b569f416b13096426488b7fd081de3679354e/759_0_4585_3669/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=36a563ead8599d4104ca2e8aee341c08",
+      "id": "rss-829c82d81c0a08b0",
+      "category": "ai",
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Technology",
+      "source_id": "bbc_technology",
+      "published_at": "2026-11-13T17:34:58Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec8/live/6943b720-df71-11f1-93e1-3b657b665bcf.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
+      "importance_score": 63
+    },
+    {
+      "id": "rss-4b4e88316cc177dd",
+      "category": "ai",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-13T17:25:45Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 63
     },
     {
       "id": "rss-07f85e55f4eee7c3",
@@ -1236,6 +1222,20 @@
       "importance_score": 63
     },
     {
+      "id": "rss-ffc7c80672e1846a",
+      "category": "finance",
+      "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
+      "summary": "Supplies outstripped demand by almost 2m barrels a day in October as market shows ‘tentative signs of rebalancing’ The world’s oil supply is swinging back to a surplus for the first time since the start of the…",
+      "url": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-11-13T13:35:45Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/5b2b569f416b13096426488b7fd081de3679354e/759_0_4585_3669/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=36a563ead8599d4104ca2e8aee341c08",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 63
+    },
+    {
       "id": "rss-64838ee6839b9ce3",
       "category": "finance",
       "title": "How a sex scandal at Nvidia is putting pressure on the White House",
@@ -1261,7 +1261,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 63
+      "importance_score": 62
     },
     {
       "id": "rss-fefe0981dc0eeb6c",
@@ -1331,7 +1331,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d61/live/e2fa1790-de8a-11f1-a701-fddedf244c16.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 61
+      "importance_score": 60
     },
     {
       "id": "rss-dab6e9b3c71af175",
@@ -1345,7 +1345,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 61
+      "importance_score": 60
     },
     {
       "id": "rss-e31d579ac0149753",
