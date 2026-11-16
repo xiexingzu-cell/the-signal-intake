@@ -6,8 +6,8 @@
   ],
   "source_counts": {
     "bbc_business:feed_items": 57,
-    "bbc_business:accepted": 23,
-    "bbc_business:rejected": 33,
+    "bbc_business:accepted": 21,
+    "bbc_business:rejected": 35,
     "bbc_business:duplicate": 1,
     "bbc_technology:feed_items": 21,
     "bbc_technology:duplicate": 6,
@@ -20,8 +20,8 @@
     "guardian_us_business:accepted": 7,
     "guardian_us_business:rejected": 13,
     "guardian_world:feed_items": 45,
-    "guardian_world:rejected": 12,
-    "guardian_world:accepted": 33,
+    "guardian_world:rejected": 11,
+    "guardian_world:accepted": 34,
     "aljazeera_world:feed_items": 25,
     "aljazeera_world:accepted": 25,
     "dw_world:feed_items": 12,
@@ -43,17 +43,17 @@
     "mit_ai_overseas:accepted": 2,
     "mit_ai_overseas:rejected": 48
   },
-  "total_accepted": 171,
+  "total_accepted": 170,
   "selected": 100,
   "category_counts": {
-    "world": 40,
     "finance": 30,
+    "world": 40,
     "ai": 30
   },
-  "period_start": "2026-11-13T01:12:21.686780+00:00",
-  "period_end": "2026-11-16T01:12:21.686780+00:00",
+  "period_start": "2026-11-13T01:52:03.200580+00:00",
+  "period_end": "2026-11-16T01:52:03.200580+00:00",
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-16T01:12:21.686780Z",
+  "generated_at": "2026-11-16T01:52:03.200580Z",
   "snapshot_entries": 100,
   "preview_only": true
 }
