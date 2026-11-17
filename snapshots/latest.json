@@ -1,8 +1,36 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-17T04:01:43.958275Z",
+  "generated_at": "2026-11-17T04:25:59.988252Z",
   "provider": "github_actions_rss",
   "entries": [
+    {
+      "id": "rss-3fbfaaf4424cc666",
+      "category": "world",
+      "title": "RBA board members who voted against rate hike warned of ‘materially sharper downturn’",
+      "summary": "Minutes released from latest Reserve Bank meeting as Jim Chalmers says Myefo ‘will cut enough, but not too much’ Get our breaking news email , free app or daily news podcast Reserve Bank board members who voted…",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/17/myefo-mid-year-budget-update-australia-treasurer-jim-chalmers",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-17T04:05:04Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/0f10e0a245449557757da5e695d170a3df66fbde/1109_0_5520_4419/master/5520.jpg?width=140&quality=85&auto=format&fit=max&s=0dbbb8a06c2f036cc766fecb07638969",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-3dd3997f6ac64a0a",
+      "category": "world",
+      "title": "CFMEU pushed to get notorious Bandidos member hired on construction project, Big Build royal commission hears",
+      "summary": "Bikie Joel Leavitt, who has a criminal history including riot, affray and assaulting police, tells inquiry he can’t recall why union was pushing for him Get our breaking news email , free app or daily news podc…",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/17/cfmeu-bandidos-bikie-joel-leavitt-big-build-royal-commission-ntwnfb",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-17T03:51:23Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/0647c991f3650ed66a57bb884ec98efb1d585bae/1126_363_2069_1656/master/2069.jpg?width=140&quality=85&auto=format&fit=max&s=0ec39ebf5a0de5d3a232665c1f470c92",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
     {
       "id": "rss-d2be8e5c91bfef66",
       "category": "world",
@@ -144,48 +172,6 @@
       "importance_score": 72
     },
     {
-      "id": "rss-a24ae1d06927c427",
-      "category": "world",
-      "title": "Labor policy backflip will allow more backpackers to work in regional Australia",
-      "summary": "Number of people allowed to stay for third year on holidaymaker visa to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government h…",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-17T00:27:29Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/bdff9c57b687d49e9eb3c34f48dc8058f94fd3ca/736_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=bbb2031ff4cb1b35ee99a259de4c670b",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-d23dbd7f1ea755c0",
-      "category": "world",
-      "title": "Proposed NSW laws to allow coalmine to increase production pose ‘serious corruption risk’",
-      "summary": "Bill to authorise expansion at Mount Pleasant coalmine, subject to a landmark high court decision, will be debated this week Get our daily political email , free app or daily news podcast A New South Wales gove…",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/17/proposed-nsw-laws-to-allow-coalmine-to-increase-production-pose-serious-corruption-risk",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-17T00:22:13Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/5494a72e8930f4165bdf3c88b12e6d7118cdedb9/797_557_3241_2593/master/3241.jpg?width=140&quality=85&auto=format&fit=max&s=79f17114d8c41e988d9daf9a1eb33ce6",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-63bd91bde38071d0",
-      "category": "finance",
-      "title": "Customers report service outages at major US banks",
-      "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-17T00:18:01Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
       "id": "rss-a3bef313b8828005",
       "category": "world",
       "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
@@ -298,15 +284,15 @@
       "importance_score": 71
     },
     {
-      "id": "rss-3a3a16e45bd70e03",
-      "category": "world",
-      "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
-      "summary": "The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-11-17T00:21:19Z",
-      "image_candidate": null,
+      "id": "rss-63bd91bde38071d0",
+      "category": "finance",
+      "title": "Customers report service outages at major US banks",
+      "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-17T00:18:01Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
@@ -447,6 +433,20 @@
       "source_id": "guardian_world",
       "published_at": "2026-11-16T21:13:02Z",
       "image_candidate": "https://i.guim.co.uk/img/media/f8920d7c62e46771a24c52857d1e30a2b7a5ef2d/494_0_4935_3948/master/4935.jpg?width=140&quality=85&auto=format&fit=max&s=e5f5afca13cfe9bfc8bbfadae70fd1db",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-c919c34fce7334ac",
+      "category": "world",
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · World",
+      "source_id": "bbc_world",
+      "published_at": "2026-11-16T20:33:57Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
@@ -606,20 +606,6 @@
       "importance_score": 70
     },
     {
-      "id": "rss-57cc1ea3d3bbd2bf",
-      "category": "ai",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-16T20:07:13Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
       "id": "rss-bdf3a5c14e4f1161",
       "category": "finance",
       "title": "The man with the golden touch: James Bond franchise is a money-spinner",
@@ -674,6 +660,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 70
+    },
+    {
+      "id": "rss-57cc1ea3d3bbd2bf",
+      "category": "ai",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-16T20:07:13Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 69
     },
     {
       "id": "rss-0a50f7f4110eec28",
