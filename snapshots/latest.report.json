@@ -8,8 +8,8 @@
     "bbc_business:rejected": 26,
     "bbc_business:duplicate": 1,
     "bbc_technology:feed_items": 21,
-    "bbc_technology:duplicate": 8,
-    "bbc_technology:accepted": 6,
+    "bbc_technology:accepted": 7,
+    "bbc_technology:duplicate": 7,
     "bbc_technology:rejected": 7,
     "bbc_world:feed_items": 28,
     "bbc_world:accepted": 23,
@@ -39,7 +39,7 @@
     "mit_ai_overseas:accepted": 3,
     "mit_ai_overseas:rejected": 47
   },
-  "total_accepted": 276,
+  "total_accepted": 277,
   "selected": 100,
   "category_counts": {
     "world": 15,
@@ -47,10 +47,10 @@
     "ai": 30,
     "quant": 25
   },
-  "period_start": "2026-11-15T02:58:54.912481+00:00",
-  "period_end": "2026-11-18T02:58:54.912481+00:00",
+  "period_start": "2026-11-15T03:38:41.181031+00:00",
+  "period_end": "2026-11-18T03:38:41.181031+00:00",
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-18T02:58:54.912481Z",
+  "generated_at": "2026-11-18T03:38:41.181031Z",
   "snapshot_entries": 100,
   "preview_only": true
 }
