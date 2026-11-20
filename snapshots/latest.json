@@ -1,6 +1,6 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-20T02:27:10.228842Z",
+  "generated_at": "2026-11-20T02:59:59.016381Z",
   "provider": "github_actions_rss",
   "entries": [
     {
@@ -11,7 +11,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News · Business",
       "source_id": "bbc_business",
-      "published_at": "2026-11-20T02:13:05Z",
+      "published_at": "2026-11-20T02:54:40Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54e/live/d83db150-e47e-11f1-99a4-65a971d3bd23.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
@@ -25,7 +25,7 @@
       "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
       "source": "The Guardian · World",
       "source_id": "guardian_world",
-      "published_at": "2026-11-20T02:01:54Z",
+      "published_at": "2026-11-20T02:50:57Z",
       "image_candidate": "https://i.guim.co.uk/img/media/54a728ed2e975155848c4f3d8c0cb7d40a67f7c8/363_0_4528_3623/master/4528.jpg?width=140&quality=85&auto=format&fit=max&s=648414a471444d167dded33dcc654c66",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
@@ -34,13 +34,41 @@
     {
       "id": "rss-06c420eff75e4439",
       "category": "world",
-      "title": "Florida carries out record-breaking 20th execution of the year",
-      "summary": "State executes a man convicted of two counts of first-degree murder while Texas also put a man to death Florida carried out a record-breaking 20th execution of the year on a man convicted of killing a pregnant…",
+      "title": "Texas botches execution of Reinaldo Dennes as staffers struggle to find vein",
+      "summary": "Dennes, 70, was convicted of killing a Houston jeweler, and groaned for an hour after pentobarbital was administered Thursday’s execution in Texas of Reinaldo Dennes took over an hour as prison staffers struggl…",
       "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
       "source": "The Guardian · World",
       "source_id": "guardian_world",
-      "published_at": "2026-11-20T01:27:25Z",
+      "published_at": "2026-11-20T02:50:29Z",
       "image_candidate": "https://i.guim.co.uk/img/media/771869bb6b1810b72d1b81dbb1582b586b47ca11/622_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=a5885394d872d2e91993c94d0a68d706",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-b410cd411ad1c9bd",
+      "category": "world",
+      "title": "Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win",
+      "summary": "President had sought to block results if Democrat won race that featured two candidates named Dan Sullivan In a legal filing on Thursday, the Trump administration asked a federal appeals court to dismiss the la…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-20T02:43:33Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/137c92397a23570d7587a4de4e41c0a66edf7caf/461_0_4610_3688/master/4610.jpg?width=140&quality=85&auto=format&fit=max&s=a0291bc53b201f1b3b538ecb36f5dd22",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-94a0b2323abb61dc",
+      "category": "world",
+      "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
+      "summary": "The controlled detonation can lead to a plume containing lead particles, worrying residents and state officials The US army has delayed its plan to detonate a stash of bomb-making chemicals in south-eastern Iow…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-20T02:30:10Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/f9ff8b258e98b63a54fb8be6a5cbf04c66591154/0_0_4618_3697/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=badb0991f687de78267f9b4ae0eb9338",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -83,20 +111,6 @@
       "source_id": "bbc_world",
       "published_at": "2026-11-20T00:50:24Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-4ecfd1dfe5d7bfac",
-      "category": "world",
-      "title": "Religious messages US agriculture secretary emailed to staff deemed unconstitutional",
-      "summary": "A federal judge ruled that messages sent by Brooke Rollins to USDA workers suggest Christianity is a shared faith and violate the first amendment Religious messages that US agriculture secretary Brooke Rollins…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/religious-messages-agriculture-secretary-unconstitutional",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-20T00:31:24Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/7dd519df3e1df1b3a309c77ef633a2ee0bad8a53/464_0_4624_3701/master/4624.jpg?width=140&quality=85&auto=format&fit=max&s=84c8c29b226204112fe37fa93573ab57",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -312,34 +326,6 @@
       "importance_score": 72
     },
     {
-      "id": "rss-4019b71fab57e454",
-      "category": "world",
-      "title": "From premature baby to social media star - Famed hippo Fiona dies",
-      "summary": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
-      "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-11-19T22:54:03Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/df1a11d0-e46a-11f1-99a1-253766e7ad8b.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-fbc93b31b43bde95",
-      "category": "world",
-      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-      "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
-      "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-11-19T22:48:22Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d77/live/35f78600-e465-11f1-99b6-a35a62fa4264.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
       "id": "rss-c842cebd4bd1f2ab",
       "category": "ai",
       "title": "AI helps researchers investigate how thousands of medical studies share code",
@@ -354,28 +340,42 @@
       "importance_score": 72
     },
     {
-      "id": "rss-fb32873037d8aca3",
+      "id": "rss-ea341f03026720e8",
       "category": "world",
-      "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
-      "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+      "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
       "source": "Al Jazeera English · News",
       "source_id": "aljazeera_world",
-      "published_at": "2026-11-20T01:29:28Z",
+      "published_at": "2026-11-20T02:54:22Z",
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
     },
     {
-      "id": "rss-54554ad725218acb",
+      "id": "rss-753389cc89961bd7",
       "category": "world",
-      "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
-      "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+      "title": "Beloved hippo Fiona dies days after swallowing visitor’s hat",
+      "summary": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
       "source": "Al Jazeera English · News",
       "source_id": "aljazeera_world",
-      "published_at": "2026-11-20T01:10:06Z",
+      "published_at": "2026-11-20T02:51:44Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-d65e7360300d7087",
+      "category": "world",
+      "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+      "summary": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-20T02:25:33Z",
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
@@ -592,20 +592,6 @@
       "importance_score": 70
     },
     {
-      "id": "rss-1bc36a7f35212e36",
-      "category": "ai",
-      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
-      "summary": "Some models fare better, but all fail in similar ways.",
-      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-19T18:44:39Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-1024x648.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
       "id": "rss-787ec3ea015eb548",
       "category": "finance",
       "title": "Anthropic raises $81bn in record-breaking stock market debut",
@@ -660,6 +646,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 70
+    },
+    {
+      "id": "rss-1bc36a7f35212e36",
+      "category": "ai",
+      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+      "summary": "Some models fare better, but all fail in similar ways.",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-19T18:44:39Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-1024x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 69
     },
     {
       "id": "rss-3a850c903b02169f",
@@ -760,20 +760,6 @@
       "importance_score": 69
     },
     {
-      "id": "rss-ddb4b8e8befa63e4",
-      "category": "ai",
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-19T14:54:39Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 69
-    },
-    {
       "id": "rss-0d98fc7fe61dbd7e",
       "category": "finance",
       "title": "Labor leaders call on governments to stop awarding Amazon public contracts",
@@ -814,6 +800,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
+    },
+    {
+      "id": "rss-ddb4b8e8befa63e4",
+      "category": "ai",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-19T14:54:39Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
     },
     {
       "id": "rss-528d4c8e9cd7caa9",
@@ -1247,7 +1247,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 67
+      "importance_score": 66
     },
     {
       "id": "rss-0e74cf8e826ca907",

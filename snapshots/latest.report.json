@@ -15,8 +15,8 @@
     "bbc_world:duplicate": 5,
     "bbc_world:accepted": 31,
     "guardian_us_business:feed_items": 20,
-    "guardian_us_business:accepted": 11,
-    "guardian_us_business:rejected": 9,
+    "guardian_us_business:accepted": 10,
+    "guardian_us_business:rejected": 10,
     "guardian_world:feed_items": 45,
     "guardian_world:accepted": 43,
     "guardian_world:rejected": 2,
@@ -39,7 +39,7 @@
     "mit_ai_overseas:accepted": 7,
     "mit_ai_overseas:rejected": 43
   },
-  "total_accepted": 257,
+  "total_accepted": 256,
   "selected": 100,
   "category_counts": {
     "finance": 30,
@@ -47,10 +47,10 @@
     "ai": 30,
     "quant": 21
   },
-  "period_start": "2026-11-17T02:27:10.228842+00:00",
-  "period_end": "2026-11-20T02:27:10.228842+00:00",
+  "period_start": "2026-11-17T02:59:59.016381+00:00",
+  "period_end": "2026-11-20T02:59:59.016381+00:00",
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-20T02:27:10.228842Z",
+  "generated_at": "2026-11-20T02:59:59.016381Z",
   "snapshot_entries": 100,
   "preview_only": true
 }
