@@ -1,6 +1,6 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-21T02:36:36.397032Z",
+  "generated_at": "2026-11-21T03:07:04.340814Z",
   "provider": "github_actions_rss",
   "entries": [
     {
@@ -200,48 +200,6 @@
       "importance_score": 72
     },
     {
-      "id": "rss-5ef06037f3faa4d5",
-      "category": "finance",
-      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-20T22:53:24Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-53ba164e0140f69f",
-      "category": "finance",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-20T22:42:47Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-397265b10097e3d9",
-      "category": "world",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-11-20T22:37:09Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
       "id": "rss-35c2239500f319c9",
       "category": "ai",
       "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
@@ -268,6 +226,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
+    },
+    {
+      "id": "rss-ff2040ce466c93b6",
+      "category": "world",
+      "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
+      "summary": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-21T02:49:16Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
     },
     {
       "id": "rss-eee4866095576938",
@@ -307,6 +279,34 @@
       "source_id": "bbc_technology",
       "published_at": "2026-11-20T23:08:57Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-5ef06037f3faa4d5",
+      "category": "finance",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-20T22:53:24Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-53ba164e0140f69f",
+      "category": "finance",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-20T22:42:47Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
@@ -522,20 +522,6 @@
       "importance_score": 70
     },
     {
-      "id": "rss-8543ddf4a5288125",
-      "category": "ai",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Technology",
-      "source_id": "bbc_technology",
-      "published_at": "2026-11-20T19:03:56Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
       "id": "rss-c24cd66ab6444d57",
       "category": "finance",
       "title": "What exactly is in the deal between the UK and the EU?",
@@ -620,18 +606,18 @@
       "importance_score": 70
     },
     {
-      "id": "rss-482148d540b9baa1",
-      "category": "finance",
-      "title": "Thousands join cost of living protests across Europe",
-      "summary": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
-      "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-20T14:43:39Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2106/live/d570a170-e4e8-11f1-99b6-a35a62fa4264.jpg",
+      "id": "rss-8543ddf4a5288125",
+      "category": "ai",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Technology",
+      "source_id": "bbc_technology",
+      "published_at": "2026-11-20T19:03:56Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
+      "importance_score": 69
     },
     {
       "id": "rss-fc059eec5b023eb8",
@@ -676,29 +662,15 @@
       "importance_score": 69
     },
     {
-      "id": "rss-bbcc1ed9f7950c3b",
-      "category": "ai",
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the sa…",
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-20T14:55:44Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 69
-    },
-    {
-      "id": "rss-b17f9c57d6b944dd",
-      "category": "ai",
-      "title": "US will soon announce root cause behind FAA nationwide ground stop",
-      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
-      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-20T14:52:51Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Travelers-during-FAA-ground-stop-1152x648.jpg",
+      "id": "rss-482148d540b9baa1",
+      "category": "finance",
+      "title": "Thousands join cost of living protests across Europe",
+      "summary": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
+      "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-20T14:43:39Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2106/live/d570a170-e4e8-11f1-99b6-a35a62fa4264.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
@@ -716,6 +688,34 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
+    },
+    {
+      "id": "rss-bbcc1ed9f7950c3b",
+      "category": "ai",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the sa…",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-20T14:55:44Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
+    },
+    {
+      "id": "rss-b17f9c57d6b944dd",
+      "category": "ai",
+      "title": "US will soon announce root cause behind FAA nationwide ground stop",
+      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-20T14:52:51Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Travelers-during-FAA-ground-stop-1152x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
     },
     {
       "id": "rss-490e0e485391ca17",
@@ -853,20 +853,6 @@
       "source_id": "bbc_business",
       "published_at": "2026-11-20T07:32:19Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 68
-    },
-    {
-      "id": "rss-5ebce6e0e150aa02",
-      "category": "finance",
-      "title": "What impact has Brexit had on the UK and EU economies?",
-      "summary": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdro…",
-      "url": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-11-20T07:00:26Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/262689907bb3a962b8ff4c1ec998672008bc17cc/1037_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=7211935cbb241db32158355594f03df7",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 68
@@ -1222,6 +1208,20 @@
       "importance_score": 68
     },
     {
+      "id": "rss-5ebce6e0e150aa02",
+      "category": "finance",
+      "title": "What impact has Brexit had on the UK and EU economies?",
+      "summary": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdro…",
+      "url": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-11-20T07:00:26Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/262689907bb3a962b8ff4c1ec998672008bc17cc/1037_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=7211935cbb241db32158355594f03df7",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 67
+    },
+    {
       "id": "rss-229f43d033a4140f",
       "category": "finance",
       "title": "Social poker with £5 stake is booming, says dealer",
@@ -1320,20 +1320,6 @@
       "importance_score": 66
     },
     {
-      "id": "rss-a178720431e75cf7",
-      "category": "finance",
-      "title": "California targets Nvidia in China AI chip probe",
-      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-19T23:04:30Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 66
-    },
-    {
       "id": "rss-c842cebd4bd1f2ab",
       "category": "ai",
       "title": "AI helps researchers investigate how thousands of medical studies share code",
@@ -1357,6 +1343,20 @@
       "source_id": "techcrunch_ai",
       "published_at": "2026-11-20T00:56:01Z",
       "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 65
+    },
+    {
+      "id": "rss-a178720431e75cf7",
+      "category": "finance",
+      "title": "California targets Nvidia in China AI chip probe",
+      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-19T23:04:30Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 65
