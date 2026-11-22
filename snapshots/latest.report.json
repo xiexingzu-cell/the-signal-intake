@@ -48,10 +48,10 @@
     "ai": 30,
     "finance": 30
   },
-  "period_start": "2026-11-19T01:27:02.924737+00:00",
-  "period_end": "2026-11-22T01:27:02.924737+00:00",
+  "period_start": "2026-11-19T02:05:45.768478+00:00",
+  "period_end": "2026-11-22T02:05:45.768478+00:00",
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-22T01:27:02.924737Z",
+  "generated_at": "2026-11-22T02:05:45.768478Z",
   "snapshot_entries": 100,
   "preview_only": true
 }
