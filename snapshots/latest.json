@@ -1,6 +1,6 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-23T01:52:10.530072Z",
+  "generated_at": "2026-11-23T02:32:00.831815Z",
   "provider": "github_actions_rss",
   "entries": [
     {
@@ -11,7 +11,7 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
       "source": "The Guardian · World",
       "source_id": "guardian_world",
-      "published_at": "2026-11-23T01:35:52Z",
+      "published_at": "2026-11-23T02:19:04Z",
       "image_candidate": "https://i.guim.co.uk/img/media/be8178f5c5e3de46c0382feac86201617d03820f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3317a84ecc0965543844c52cd44a69a1",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
@@ -186,32 +186,32 @@
       "importance_score": 72
     },
     {
-      "id": "rss-db5e339fff908aaf",
+      "id": "rss-4a78beca74d536d0",
       "category": "world",
-      "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
-      "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass Michigan US senator-elect Abdul El-Sayed on Sunday doubled down on naming healthcare reform…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-22T22:01:17Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/78f33ce8c7f9ce573db8956e2c3886261286f04f/232_0_4113_3290/master/4113.jpg?width=140&quality=85&auto=format&fit=max&s=8250f823555ef1ca549d6dc77d97a486",
+      "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+      "summary": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-23T01:53:23Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
-      "id": "rss-896455605a4b34c5",
+      "id": "rss-44f336840b6d2d1f",
       "category": "world",
-      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Ther…",
-      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-22T22:00:58Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/323290cab4a059e743deb4e7ae0928f6d847b2af/681_32_4857_3885/master/4857.jpg?width=140&quality=85&auto=format&fit=max&s=0a1ed77ba3ac8b171cc11d740c1db702",
+      "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+      "summary": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-23T01:51:32Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
       "id": "rss-4221c3a1682df224",
@@ -258,8 +258,8 @@
     {
       "id": "rss-88506ad090139691",
       "category": "world",
-      "title": "South Korea’s stock market tumbles as AI bubble fears mount",
-      "summary": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
+      "title": "Asian stock markets tumble as AI bubble fears mount",
+      "summary": "Stocks fall in South Korea, Taiwan and Hong Kong amid tech-led sell-off.",
       "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
       "source": "Al Jazeera English · News",
       "source_id": "aljazeera_world",
@@ -382,29 +382,29 @@
       "importance_score": 71
     },
     {
-      "id": "rss-81f7022ff6cdf12c",
+      "id": "rss-db5e339fff908aaf",
       "category": "world",
-      "title": "Democrats win largest House majority since 1992 with North Carolina seat",
-      "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-11-22T22:19:47Z",
-      "image_candidate": null,
+      "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
+      "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass Michigan US senator-elect Abdul El-Sayed on Sunday doubled down on naming healthcare reform…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-22T22:01:17Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/78f33ce8c7f9ce573db8956e2c3886261286f04f/232_0_4113_3290/master/4113.jpg?width=140&quality=85&auto=format&fit=max&s=8250f823555ef1ca549d6dc77d97a486",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
     },
     {
-      "id": "rss-56e622bc084c0941",
+      "id": "rss-896455605a4b34c5",
       "category": "world",
-      "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
-      "summary": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-11-22T22:01:48Z",
-      "image_candidate": null,
+      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Ther…",
+      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-22T22:00:58Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/323290cab4a059e743deb4e7ae0928f6d847b2af/681_32_4857_3885/master/4857.jpg?width=140&quality=85&auto=format&fit=max&s=0a1ed77ba3ac8b171cc11d740c1db702",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
@@ -536,18 +536,32 @@
       "importance_score": 71
     },
     {
-      "id": "rss-7ca3eed99935d152",
+      "id": "rss-81f7022ff6cdf12c",
       "category": "world",
-      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-      "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-11-22T18:29:46Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
+      "title": "Democrats win largest House majority since 1992 with North Carolina seat",
+      "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-22T22:19:47Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
+      "importance_score": 70
+    },
+    {
+      "id": "rss-56e622bc084c0941",
+      "category": "world",
+      "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+      "summary": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-22T22:01:48Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 70
     },
     {
       "id": "rss-586be1da7cf04e04",
@@ -634,20 +648,6 @@
       "importance_score": 70
     },
     {
-      "id": "rss-e94a1544cb603a6a",
-      "category": "world",
-      "title": "Cockroaches, dissent and a paradigm shift in India",
-      "summary": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
-      "source": "Al Jazeera English · News",
-      "source_id": "aljazeera_world",
-      "published_at": "2026-11-22T19:40:12Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
       "id": "rss-a30863b3ceaf1136",
       "category": "finance",
       "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
@@ -673,7 +673,7 @@
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
+      "importance_score": 69
     },
     {
       "id": "rss-1cdf64ba775d6a8e",
@@ -757,7 +757,7 @@
       "image_candidate": "https://i.guim.co.uk/img/media/917aeeec17f3bee46d98e2201997eb1f9a0b316c/0_807_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=d4752a8d74606eaec6916b68b2a9c81d",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 68
+      "importance_score": 67
     },
     {
       "id": "rss-8fb6792a24df18bc",
@@ -785,7 +785,7 @@
       "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 65
+      "importance_score": 64
     },
     {
       "id": "rss-7289e21f33e265e9",
@@ -1012,48 +1012,6 @@
       "importance_score": 59
     },
     {
-      "id": "rss-d1a52d7504aa6254",
-      "category": "ai",
-      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-      "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-20T22:28:24Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 59
-    },
-    {
-      "id": "rss-9cc228f9e09fc415",
-      "category": "ai",
-      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
-      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-20T22:16:51Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 59
-    },
-    {
-      "id": "rss-ae5a204aaba705d5",
-      "category": "ai",
-      "title": "Google rolls out new search homepage with AI chat history and no search button",
-      "summary": "Google search is making it even easier to access AI tools on the search page.",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-20T21:58:29Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 59
-    },
-    {
       "id": "rss-0d485e0dfc8d69ca",
       "category": "finance",
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
@@ -1082,20 +1040,6 @@
       "importance_score": 59
     },
     {
-      "id": "rss-c24cd66ab6444d57",
-      "category": "finance",
-      "title": "What exactly is in the deal between the UK and the EU?",
-      "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of on-off ne…",
-      "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-11-20T18:19:53Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/7dc3c60fa8338bc5ee1369a6d31d699690231550/148_0_2427_1942/master/2427.jpg?width=140&quality=85&auto=format&fit=max&s=408ad629bea9f26f5474edd3bed42498",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 59
-    },
-    {
       "id": "rss-29c6398dc2aba28f",
       "category": "ai",
       "title": "Following the “mathocalypse,” mathematicians consider the future",
@@ -1108,6 +1052,48 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 59
+    },
+    {
+      "id": "rss-d1a52d7504aa6254",
+      "category": "ai",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-20T22:28:24Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 58
+    },
+    {
+      "id": "rss-9cc228f9e09fc415",
+      "category": "ai",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-20T22:16:51Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 58
+    },
+    {
+      "id": "rss-ae5a204aaba705d5",
+      "category": "ai",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-20T21:58:29Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 58
     },
     {
       "id": "rss-85d0c5a4a983edfb",
@@ -1250,6 +1236,20 @@
       "importance_score": 58
     },
     {
+      "id": "rss-c24cd66ab6444d57",
+      "category": "finance",
+      "title": "What exactly is in the deal between the UK and the EU?",
+      "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of on-off ne…",
+      "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-11-20T18:19:53Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/7dc3c60fa8338bc5ee1369a6d31d699690231550/148_0_2427_1942/master/2427.jpg?width=140&quality=85&auto=format&fit=max&s=408ad629bea9f26f5474edd3bed42498",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 58
+    },
+    {
       "id": "rss-b489ac03011e847a",
       "category": "finance",
       "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
@@ -1320,20 +1320,6 @@
       "importance_score": 58
     },
     {
-      "id": "rss-7b3b932a0a22da2f",
-      "category": "finance",
-      "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
-      "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream On a rainy September morning, the Pamela Ann, a rusty,…",
-      "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-11-20T14:00:31Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/121c48abe318604b11e3134fcbc6c9f91546e514/0_921_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=213d773d708486121be83b4865004f1d",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 58
-    },
-    {
       "id": "rss-fc059eec5b023eb8",
       "category": "ai",
       "title": "Chips can survive the space environment — can their financing?",
@@ -1385,6 +1371,20 @@
       "source_id": "techcrunch_ai",
       "published_at": "2026-11-20T14:55:44Z",
       "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 57
+    },
+    {
+      "id": "rss-7b3b932a0a22da2f",
+      "category": "finance",
+      "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
+      "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream On a rainy September morning, the Pamela Ann, a rusty,…",
+      "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-11-20T14:00:31Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/121c48abe318604b11e3134fcbc6c9f91546e514/0_921_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=213d773d708486121be83b4865004f1d",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 57
