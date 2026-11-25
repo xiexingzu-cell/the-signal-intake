@@ -1,8 +1,22 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-25T04:22:52.777972Z",
+  "generated_at": "2026-11-25T04:51:14.666306Z",
   "provider": "github_actions_rss",
   "entries": [
+    {
+      "id": "rss-d28edd583d67403a",
+      "category": "world",
+      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · World",
+      "source_id": "bbc_world",
+      "published_at": "2026-11-25T04:49:55Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
     {
       "id": "rss-509b355ea77de535",
       "category": "world",
@@ -11,8 +25,22 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
       "source": "The Guardian · World",
       "source_id": "guardian_world",
-      "published_at": "2026-11-25T04:13:27Z",
+      "published_at": "2026-11-25T04:41:09Z",
       "image_candidate": "https://i.guim.co.uk/img/media/38296a4aa5e85e8d793db99da1659b2cb525aea4/260_143_2751_2201/master/2751.jpg?width=140&quality=85&auto=format&fit=max&s=5ff92fc2d4cdd987183bc51e9a2a3858",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-87d01006e157b37e",
+      "category": "world",
+      "title": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
+      "summary": "Clubs fail to sign up for 2027 season as disquiet over governing body’s executive grips football community About 100 football clubs, representing hundreds of thousands of players, have deliberately missed the d…",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-25T04:29:29Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/7bd80ca4510055c7c6a59b57e6cce169acc45f5b/401_0_3919_3137/master/3919.jpg?width=140&quality=85&auto=format&fit=max&s=30f858babcc8284a5bb2fbc64f539fd6",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -46,20 +74,6 @@
       "importance_score": 72
     },
     {
-      "id": "rss-d28edd583d67403a",
-      "category": "world",
-      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-      "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-11-25T03:54:43Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
       "id": "rss-2a1422ea57bb08bb",
       "category": "finance",
       "title": "US attorney general dodges questions about Nvidia investigation",
@@ -82,7 +96,7 @@
       "source": "BBC News · World",
       "source_id": "bbc_world",
       "published_at": "2026-11-25T03:28:37Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a18/live/d6949ea0-e883-11f1-a094-5fdc692f3e33.jpg",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b78/live/6330c460-e889-11f1-a094-5fdc692f3e33.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -256,20 +270,6 @@
       "importance_score": 72
     },
     {
-      "id": "rss-c86c32fe26579512",
-      "category": "world",
-      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
-      "summary": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
-      "url": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · World",
-      "source_id": "bbc_world",
-      "published_at": "2026-11-25T01:00:36Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dac/live/653c0750-e7d1-11f1-83ab-9953b30aab1f.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
       "id": "rss-be54e905a796b4ce",
       "category": "finance",
       "title": "US preparing to unveil plan for new tariffs on global trading partners",
@@ -281,7 +281,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
       "id": "rss-3267b6051ed13edd",
@@ -295,7 +295,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
       "id": "rss-b1db65a692ce60ef",
@@ -309,7 +309,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
       "id": "rss-88ab6f2dc35843e6",
@@ -323,7 +323,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
       "id": "rss-42887a31417738a7",
@@ -337,7 +337,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
       "id": "rss-51526959fd76ab40",
@@ -349,20 +349,6 @@
       "source_id": "guardian_us_business",
       "published_at": "2026-11-24T22:05:21Z",
       "image_candidate": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=814d34a792f3088b68350ec9f04f70e5",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-c18f5a8804513b9f",
-      "category": "finance",
-      "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
-      "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia. The company’s…",
-      "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-11-24T20:32:02Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/a73808018c1aee9c4e492cbde53796d16e234aa8/0_667_1218_973/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=58d792ab17e4d7be4d15fc17de1e385b",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
@@ -508,15 +494,15 @@
       "importance_score": 70
     },
     {
-      "id": "rss-d0e234682f9b6d75",
-      "category": "ai",
-      "title": "What's going on with the Riemann hypothesis?",
-      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-24T20:34:53Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
+      "id": "rss-c18f5a8804513b9f",
+      "category": "finance",
+      "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+      "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia. The company’s…",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-11-24T20:32:02Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/a73808018c1aee9c4e492cbde53796d16e234aa8/0_667_1218_973/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=58d792ab17e4d7be4d15fc17de1e385b",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 70
@@ -550,18 +536,18 @@
       "importance_score": 70
     },
     {
-      "id": "rss-6e9158e1bad8a584",
-      "category": "finance",
-      "title": "Four generations of a family working in one factory",
-      "summary": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury.",
-      "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-24T16:42:46Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be8c/live/eae8fb80-e824-11f1-93d4-6d580946ad80.jpg",
+      "id": "rss-d0e234682f9b6d75",
+      "category": "ai",
+      "title": "What's going on with the Riemann hypothesis?",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-24T20:34:53Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
+      "importance_score": 69
     },
     {
       "id": "rss-ba433feb62053ad4",
@@ -718,15 +704,15 @@
       "importance_score": 69
     },
     {
-      "id": "rss-022f717aafc7a3a3",
-      "category": "ai",
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-24T16:46:00Z",
-      "image_candidate": null,
+      "id": "rss-6e9158e1bad8a584",
+      "category": "finance",
+      "title": "Four generations of a family working in one factory",
+      "summary": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury.",
+      "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-24T16:42:46Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be8c/live/eae8fb80-e824-11f1-93d4-6d580946ad80.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
@@ -744,6 +730,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
+    },
+    {
+      "id": "rss-022f717aafc7a3a3",
+      "category": "ai",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-24T16:46:00Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
     },
     {
       "id": "rss-8f94c03d42bb8a39",
@@ -853,20 +853,6 @@
       "source_id": "cnbc_finance",
       "published_at": "2026-11-24T14:51:58Z",
       "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 68
-    },
-    {
-      "id": "rss-e97dd56116f464d7",
-      "category": "ai",
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-24T12:30:05Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 68
@@ -1264,6 +1250,20 @@
       "importance_score": 68
     },
     {
+      "id": "rss-e97dd56116f464d7",
+      "category": "ai",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-24T12:30:05Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 67
+    },
+    {
       "id": "rss-6a83e7f3582a8c45",
       "category": "finance",
       "title": "Some U.S. food banks see demand top pandemic levels",
@@ -1303,7 +1303,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 66
+      "importance_score": 65
     },
     {
       "id": "rss-f53d7a9d4f31c892",
