@@ -1,6 +1,6 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-26T03:40:10.059498Z",
+  "generated_at": "2026-11-26T04:05:28.785754Z",
   "provider": "github_actions_rss",
   "entries": [
     {
@@ -11,8 +11,36 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian · World",
       "source_id": "guardian_world",
-      "published_at": "2026-11-26T03:33:25Z",
+      "published_at": "2026-11-26T04:04:14Z",
       "image_candidate": "https://i.guim.co.uk/img/media/52b5b66c0f27e10da77f0807cf7933ab39d66fec/1067_534_5492_4394/master/5492.jpg?width=140&quality=85&auto=format&fit=max&s=4871ce862525bba05ae7ee81a3fb3552",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-fee99f7092cda568",
+      "category": "world",
+      "title": "Macy's postpones Thanksgiving parade due to severe weather",
+      "summary": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · World",
+      "source_id": "bbc_world",
+      "published_at": "2026-11-26T04:04:14Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/3a3ebde0-e94d-11f1-bfb6-fd0f1685abfb.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-a77b5085c9245e54",
+      "category": "world",
+      "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+      "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-26T03:54:24Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=140&quality=85&auto=format&fit=max&s=c5009ff0d9a4d9543a2d563cd741a6ad",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -270,34 +298,6 @@
       "importance_score": 72
     },
     {
-      "id": "rss-6cb00d1a6c742483",
-      "category": "world",
-      "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
-      "summary": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged A UN tribunal has cast doubt on the evidence used to justify the sacking of Palestinian UN aid wo…",
-      "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-26T00:05:50Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/65d32fbb43f0e7ee1a67c12068fb35f5cd6d3afb/780_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=b274c1d56c0497a8ae693e8ba87186da",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-4df3d843d42b445b",
-      "category": "world",
-      "title": "Ministers to create new stalking offence and scrap need for proof of fear or distress",
-      "summary": "Victims’ commissioner welcomes strengthening of law in England and Wales but calls for measures to tackle convicted stalkers Ministers will create a new stalking offence so that victims will no longer have to p…",
-      "url": "https://www.theguardian.com/world/2026/nov/26/ministers-create-new-stalking-offence-scrap-need-for-proof-victims-fear-distress",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-26T00:01:40Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/505b432603622161b285e9a4f97a1f95e661d26c/431_0_3058_2447/master/3058.jpg?width=140&quality=85&auto=format&fit=max&s=2e09c280067db9ac8175b386e3341d56",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
       "id": "rss-40530bdc7146b086",
       "category": "finance",
       "title": "Guitar wars - the transatlantic battle over the Stratocaster",
@@ -309,7 +309,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
       "id": "rss-42b954009353f086",
@@ -391,48 +391,6 @@
       "source_id": "ars_technica",
       "published_at": "2026-11-25T20:57:09Z",
       "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement-1152x648.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
-      "id": "rss-fb19c642f1b75584",
-      "category": "ai",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-25T20:03:27Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
-      "id": "rss-74d99a307b5dcf28",
-      "category": "ai",
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-25T19:54:57Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
-    },
-    {
-      "id": "rss-b4fddd7d3c17c325",
-      "category": "ai",
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-25T19:44:24Z",
-      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 70
@@ -550,18 +508,46 @@
       "importance_score": 70
     },
     {
-      "id": "rss-e57eaf5d28507d8a",
-      "category": "finance",
-      "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
-      "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern ove…",
-      "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-11-25T15:46:15Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=191e9917cb67ed891b36f02f0071850b",
+      "id": "rss-fb19c642f1b75584",
+      "category": "ai",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-25T20:03:27Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 70
+      "importance_score": 69
+    },
+    {
+      "id": "rss-74d99a307b5dcf28",
+      "category": "ai",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-25T19:54:57Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 69
+    },
+    {
+      "id": "rss-b4fddd7d3c17c325",
+      "category": "ai",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-25T19:44:24Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 69
     },
     {
       "id": "rss-917702583c56d101",
@@ -676,15 +662,15 @@
       "importance_score": 69
     },
     {
-      "id": "rss-ef02d096cf97eadc",
-      "category": "ai",
-      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is…",
-      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-25T15:41:43Z",
-      "image_candidate": null,
+      "id": "rss-e57eaf5d28507d8a",
+      "category": "finance",
+      "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+      "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern ove…",
+      "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-11-25T15:46:15Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=191e9917cb67ed891b36f02f0071850b",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
@@ -744,6 +730,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
+    },
+    {
+      "id": "rss-ef02d096cf97eadc",
+      "category": "ai",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is…",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-25T15:41:43Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
     },
     {
       "id": "rss-83a906aa5894b936",
@@ -811,20 +811,6 @@
       "source_id": "techcrunch_ai",
       "published_at": "2026-11-25T13:00:00Z",
       "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 68
-    },
-    {
-      "id": "rss-5f071a5fc3a63b13",
-      "category": "ai",
-      "title": "AI may soon change what it means to be a theoretical physicist",
-      "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
-      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-25T12:00:28Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 68
@@ -1222,6 +1208,20 @@
       "importance_score": 68
     },
     {
+      "id": "rss-5f071a5fc3a63b13",
+      "category": "ai",
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-25T12:00:28Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 67
+    },
+    {
       "id": "rss-762ce6d7fedd6d19",
       "category": "ai",
       "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
@@ -1261,7 +1261,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 67
+      "importance_score": 66
     },
     {
       "id": "rss-912dcc7ffb345aa1",
