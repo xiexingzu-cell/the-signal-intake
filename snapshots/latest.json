@@ -1,6 +1,6 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-27T03:41:13.295848Z",
+  "generated_at": "2026-11-27T04:06:42.855596Z",
   "provider": "github_actions_rss",
   "entries": [
     {
@@ -13,6 +13,20 @@
       "source_id": "bbc_world",
       "published_at": "2026-11-27T03:28:15Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 72
+    },
+    {
+      "id": "rss-5f9c557285d6a641",
+      "category": "world",
+      "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+      "summary": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coast Get our breaking news email , free app or daily news podcast Major fires are among a mult…",
+      "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-27T03:14:10Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/28_0_805_644/master/805.jpg?width=140&quality=85&auto=format&fit=max&s=f40d056aa224aeae82ec6832a11e9baa",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -90,7 +104,7 @@
     {
       "id": "rss-9b174b6e98d0e13f",
       "category": "world",
-      "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
       "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
       "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News · World",
@@ -116,74 +130,32 @@
       "importance_score": 72
     },
     {
-      "id": "rss-3c01055c44d74eef",
-      "category": "finance",
-      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
-      "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
-      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-27T00:02:19Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
+      "id": "rss-38e09cde56051e32",
+      "category": "world",
+      "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+      "summary": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-27T03:49:08Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
-      "id": "rss-bd19ba6222622bab",
+      "id": "rss-bb9b1913a5e15500",
       "category": "world",
-      "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
-      "summary": "Labor passes final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports Get our daily political email , free app or daily news podcast A federal gas reservation scheme requiring Austr…",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-27T00:02:10Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/5e85107add688802688910ec8b127178d48de914/435_0_4350_3480/master/4350.jpg?width=140&quality=85&auto=format&fit=max&s=6f4a4d12b8c33efe85ecbed1e2eea322",
+      "title": "Asian stock markets rise after earlier tech rout",
+      "summary": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-27T03:42:16Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-304f3aebbc7d2796",
-      "category": "world",
-      "title": "Water firms to identify 250,000 vulnerable households in England eligible for discounts",
-      "summary": "Department for Work and Pensions to provide data about households missing out on WaterSure support scheme Water companies will use government data to identify as many as 250,000 vulnerable households in England…",
-      "url": "https://www.theguardian.com/business/2026/nov/27/water-firms-to-identify-250000-vulnerable-households-in-england-eligible-for-discounts",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-27T00:01:48Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/94632807690955606802ebb1b2fec938e14f7658/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=28b839ff371b9946686f883c83390475",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-869f0cb62bd2d648",
-      "category": "world",
-      "title": "Nearly half of ethnic minority people in UK have faced racism at work in last year, survey finds",
-      "summary": "Figures show impact on mental health, with majority having no confidence HR will take their concerns seriously Nearly half of people from minority ethnic backgrounds have experienced racism at work and the majo…",
-      "url": "https://www.theguardian.com/world/2026/nov/27/nearly-half-of-ethnic-minority-people-in-uk-have-faced-racism-at-work-in-last-year-survey-finds",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-27T00:01:47Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/2cd51a224b95acff1f82cd61a05255876794a920/534_454_4434_3546/master/4434.jpg?width=140&quality=85&auto=format&fit=max&s=750b4be14d08927c44a3a061062ee95a",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-e47209c329ce1623",
-      "category": "world",
-      "title": "Sam Wood to spend Christmas in jail after again being denied bail over alleged assault of wife Snezana",
-      "summary": "Former Bachelor star and fitness influencer stands accused of assaulting wife at Noosa in Queensland during family holiday in October Get our breaking news email , free app or daily news podcast Reality star Sa…",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/27/sam-wood-denied-bail-alleged-assault-queensland-ntwnfb",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-26T23:54:28Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/cf18358e9f17f911810004a3e6a1b39e85f408e9/229_0_5020_4016/master/5020.jpg?width=140&quality=85&auto=format&fit=max&s=5216e554dcd4f2da4b4701653be49e1c",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
+      "importance_score": 71
     },
     {
       "id": "rss-1752588abd94c038",
@@ -242,6 +214,34 @@
       "importance_score": 71
     },
     {
+      "id": "rss-c4c151cdbfdfb4f3",
+      "category": "world",
+      "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+      "summary": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+      "source": "Al Jazeera English · News",
+      "source_id": "aljazeera_world",
+      "published_at": "2026-11-27T01:07:44Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-3c01055c44d74eef",
+      "category": "finance",
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-27T00:02:19Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
       "id": "rss-1a9b026564aa8b01",
       "category": "finance",
       "title": "UK to pay 'participation' fee to deliver EU deals",
@@ -281,20 +281,6 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 71
-    },
-    {
-      "id": "rss-979e22972f743c14",
-      "category": "ai",
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-26T20:03:54Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 70
     },
     {
@@ -310,6 +296,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 70
+    },
+    {
+      "id": "rss-979e22972f743c14",
+      "category": "ai",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-26T20:03:54Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 69
     },
     {
       "id": "rss-760a332429d5d843",
@@ -335,20 +335,6 @@
       "source_id": "ars_technica",
       "published_at": "2026-11-26T18:00:29Z",
       "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ford-GT41-and-GT40_06-1152x648.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 69
-    },
-    {
-      "id": "rss-b81da0547893b262",
-      "category": "ai",
-      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-26T16:00:00Z",
-      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 69
@@ -424,32 +410,18 @@
       "importance_score": 69
     },
     {
-      "id": "rss-e2256bea95974a44",
-      "category": "finance",
-      "title": "New boss appointed to lead Travelodge",
-      "summary": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-26T12:03:49Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c6/live/aeced5c0-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+      "id": "rss-b81da0547893b262",
+      "category": "ai",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-26T16:00:00Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 69
-    },
-    {
-      "id": "rss-a77b5085c9245e54",
-      "category": "finance",
-      "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
-      "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves th…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-11-26T12:00:22Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=140&quality=85&auto=format&fit=max&s=c5009ff0d9a4d9543a2d563cd741a6ad",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 69
+      "importance_score": 68
     },
     {
       "id": "rss-193535c3d6a20312",
@@ -466,15 +438,29 @@
       "importance_score": 68
     },
     {
-      "id": "rss-1fb96d1f02355e3a",
-      "category": "ai",
-      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
-      "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
-      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-26T12:00:14Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-office-collage-2026-1152x648.jpg",
+      "id": "rss-e2256bea95974a44",
+      "category": "finance",
+      "title": "New boss appointed to lead Travelodge",
+      "summary": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-26T12:03:49Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c6/live/aeced5c0-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 68
+    },
+    {
+      "id": "rss-a77b5085c9245e54",
+      "category": "finance",
+      "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+      "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves th…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-11-26T12:00:22Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=140&quality=85&auto=format&fit=max&s=c5009ff0d9a4d9543a2d563cd741a6ad",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 68
@@ -900,6 +886,20 @@
       "importance_score": 68
     },
     {
+      "id": "rss-1fb96d1f02355e3a",
+      "category": "ai",
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-26T12:00:14Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-office-collage-2026-1152x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 67
+    },
+    {
       "id": "rss-c18152116c0d2d3d",
       "category": "finance",
       "title": "Parents cutting basics at Christmas, charity warns",
@@ -953,7 +953,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 66
+      "importance_score": 65
     },
     {
       "id": "rss-42b954009353f086",
@@ -1026,48 +1026,6 @@
       "importance_score": 64
     },
     {
-      "id": "rss-fb19c642f1b75584",
-      "category": "ai",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-25T20:03:27Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
-    },
-    {
-      "id": "rss-74d99a307b5dcf28",
-      "category": "ai",
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-25T19:54:57Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
-    },
-    {
-      "id": "rss-b4fddd7d3c17c325",
-      "category": "ai",
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "source": "TechCrunch AI",
-      "source_id": "techcrunch_ai",
-      "published_at": "2026-11-25T19:44:24Z",
-      "image_candidate": null,
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
-    },
-    {
       "id": "rss-bc108d345915abe2",
       "category": "finance",
       "title": "What we know about Trump's Thanksgiving tariffs",
@@ -1124,18 +1082,46 @@
       "importance_score": 64
     },
     {
-      "id": "rss-e57eaf5d28507d8a",
-      "category": "finance",
-      "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
-      "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern ove…",
-      "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-      "source": "The Guardian · US Business",
-      "source_id": "guardian_us_business",
-      "published_at": "2026-11-25T15:46:15Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=191e9917cb67ed891b36f02f0071850b",
+      "id": "rss-fb19c642f1b75584",
+      "category": "ai",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-25T20:03:27Z",
+      "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
+      "importance_score": 63
+    },
+    {
+      "id": "rss-74d99a307b5dcf28",
+      "category": "ai",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-25T19:54:57Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 63
+    },
+    {
+      "id": "rss-b4fddd7d3c17c325",
+      "category": "ai",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch AI",
+      "source_id": "techcrunch_ai",
+      "published_at": "2026-11-25T19:44:24Z",
+      "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 63
     },
     {
       "id": "rss-917702583c56d101",
@@ -1250,6 +1236,20 @@
       "importance_score": 63
     },
     {
+      "id": "rss-e57eaf5d28507d8a",
+      "category": "finance",
+      "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+      "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern ove…",
+      "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+      "source": "The Guardian · US Business",
+      "source_id": "guardian_us_business",
+      "published_at": "2026-11-25T15:46:15Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=191e9917cb67ed891b36f02f0071850b",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 63
+    },
+    {
       "id": "rss-ef02d096cf97eadc",
       "category": "ai",
       "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
@@ -1261,7 +1261,7 @@
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 63
+      "importance_score": 62
     },
     {
       "id": "rss-83a906aa5894b936",
@@ -1331,7 +1331,7 @@
       "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 62
+      "importance_score": 61
     },
     {
       "id": "rss-762ce6d7fedd6d19",
@@ -1387,7 +1387,7 @@
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 60
+      "importance_score": 59
     },
     {
       "id": "rss-11304642d4ef0ee9",
