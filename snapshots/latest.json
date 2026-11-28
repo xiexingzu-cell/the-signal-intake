@@ -1,6 +1,6 @@
 {
   "schema": "the-signal.remote.v1",
-  "generated_at": "2026-11-28T03:23:15.627891Z",
+  "generated_at": "2026-11-28T03:49:41.921921Z",
   "provider": "github_actions_rss",
   "entries": [
     {
@@ -11,7 +11,7 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
       "source": "The Guardian · World",
       "source_id": "guardian_world",
-      "published_at": "2026-11-28T03:19:48Z",
+      "published_at": "2026-11-28T03:34:26Z",
       "image_candidate": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
@@ -83,48 +83,6 @@
       "source_id": "bbc_world",
       "published_at": "2026-11-28T00:05:17Z",
       "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-b5c2a10b96a149b7",
-      "category": "world",
-      "title": "Purse found of woman, 24, swept from California beach three weeks ago",
-      "summary": "Se Nah Park was overwhelmed by a wave at the notorious Panther Beach The purse of a 24-year-old who was swept into the ocean at a notorious California beach three weeks ago was found on Wednesday, as the west c…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/27/purse-found-woman-california-beach-wave",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-27T23:43:00Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/87e0cce41f886cd60d1d8b165378056b92b1eacc/0_0_1730_1384/master/1730.jpg?width=140&quality=85&auto=format&fit=max&s=193df2b4178c46b858edcdba73de27cc",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-8c1e1132af5f9c2a",
-      "category": "world",
-      "title": "Schools in England must set aside time for pupils to read for pleasure",
-      "summary": "Education secretary expected to announce measures as part of proposed reforms to national curriculum Schools in England will have to allocate time for children to read for pleasure as part of Labour’s proposed…",
-      "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-27T23:34:55Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/6e4183abedc6c8a85e09398416b87c9824ecbfc8/238_298_4221_3378/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=4659c40391e4a2d7ff307e837a3c3944",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 72
-    },
-    {
-      "id": "rss-2a895774aad5a36d",
-      "category": "world",
-      "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
-      "summary": "Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees OpenAI sued Apple on Friday, accusing the company of ⁠stealing its trade secrets ​and discoura…",
-      "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
-      "source": "The Guardian · World",
-      "source_id": "guardian_world",
-      "published_at": "2026-11-27T23:28:50Z",
-      "image_candidate": "https://i.guim.co.uk/img/media/548f2774750f067b58b8293df2904e3bc1888919/833_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=d56b4209239ea3f6c6aab8f0f336e974",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 72
@@ -293,6 +251,48 @@
       "source_id": "aljazeera_world",
       "published_at": "2026-11-27T23:55:16Z",
       "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-b5c2a10b96a149b7",
+      "category": "world",
+      "title": "Purse found of woman, 24, swept from California beach three weeks ago",
+      "summary": "Se Nah Park was overwhelmed by a wave at the notorious Panther Beach The purse of a 24-year-old who was swept into the ocean at a notorious California beach three weeks ago was found on Wednesday, as the west c…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/purse-found-woman-california-beach-wave",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-27T23:43:00Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/87e0cce41f886cd60d1d8b165378056b92b1eacc/0_0_1730_1384/master/1730.jpg?width=140&quality=85&auto=format&fit=max&s=193df2b4178c46b858edcdba73de27cc",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-8c1e1132af5f9c2a",
+      "category": "world",
+      "title": "Schools in England must set aside time for pupils to read for pleasure",
+      "summary": "Education secretary expected to announce measures as part of proposed reforms to national curriculum Schools in England will have to allocate time for children to read for pleasure as part of Labour’s proposed…",
+      "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-27T23:34:55Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/6e4183abedc6c8a85e09398416b87c9824ecbfc8/238_298_4221_3378/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=4659c40391e4a2d7ff307e837a3c3944",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 71
+    },
+    {
+      "id": "rss-2a895774aad5a36d",
+      "category": "world",
+      "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+      "summary": "Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees OpenAI sued Apple on Friday, accusing the company of ⁠stealing its trade secrets ​and discoura…",
+      "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+      "source": "The Guardian · World",
+      "source_id": "guardian_world",
+      "published_at": "2026-11-27T23:28:50Z",
+      "image_candidate": "https://i.guim.co.uk/img/media/548f2774750f067b58b8293df2904e3bc1888919/833_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=d56b4209239ea3f6c6aab8f0f336e974",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 71
@@ -676,20 +676,6 @@
       "importance_score": 68
     },
     {
-      "id": "rss-84c08e61020b26f0",
-      "category": "ai",
-      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
-      "summary": "We polled the Ars staff about their favorite pickups this year; here's the list.",
-      "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "published_at": "2026-11-27T11:30:04Z",
-      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-gifts-2026-1152x648.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 68
-    },
-    {
       "id": "rss-5dbdf30e0c098658",
       "category": "finance",
       "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
@@ -730,6 +716,20 @@
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 68
+    },
+    {
+      "id": "rss-84c08e61020b26f0",
+      "category": "ai",
+      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+      "summary": "We polled the Ars staff about their favorite pickups this year; here's the list.",
+      "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "published_at": "2026-11-27T11:30:04Z",
+      "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-gifts-2026-1152x648.jpg",
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 67
     },
     {
       "id": "rss-bbfb1d37f2fb5fda",
@@ -872,20 +872,6 @@
       "importance_score": 64
     },
     {
-      "id": "rss-ab16224e8d1cd5dd",
-      "category": "finance",
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News · Business",
-      "source_id": "bbc_business",
-      "published_at": "2026-11-26T15:23:17Z",
-      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
-      "weekly_research": false,
-      "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 64
-    },
-    {
       "id": "rss-760a332429d5d843",
       "category": "finance",
       "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
@@ -923,6 +909,20 @@
       "source_id": "techcrunch_ai",
       "published_at": "2026-11-26T16:00:00Z",
       "image_candidate": null,
+      "weekly_research": false,
+      "provenance": "rss_link_time_verified; body_not_verified",
+      "importance_score": 63
+    },
+    {
+      "id": "rss-ab16224e8d1cd5dd",
+      "category": "finance",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News · Business",
+      "source_id": "bbc_business",
+      "published_at": "2026-11-26T15:23:17Z",
+      "image_candidate": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
       "importance_score": 63
@@ -1219,7 +1219,7 @@
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 58
+      "importance_score": 57
     },
     {
       "id": "rss-917702583c56d101",
@@ -1345,7 +1345,7 @@
       "image_candidate": null,
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 57
+      "importance_score": 56
     },
     {
       "id": "rss-83a906aa5894b936",
@@ -1359,7 +1359,7 @@
       "image_candidate": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/boom-1024x648.jpg",
       "weekly_research": false,
       "provenance": "rss_link_time_verified; body_not_verified",
-      "importance_score": 57
+      "importance_score": 56
     },
     {
       "id": "rss-1a604d5c888534c5",
